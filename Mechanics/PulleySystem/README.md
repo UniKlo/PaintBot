@@ -5,11 +5,11 @@
     - 140 lbs is the rated working load of the chain
     - Specifications below:
 
-    [](https://www.renoldjeffrey.com/media/2395574/ansi-standard-roller-chain-renold-jeffrey.pdf)
+    [PDF](https://www.renoldjeffrey.com/media/2395574/ansi-standard-roller-chain-renold-jeffrey.pdf)
 
 - Used a 1:4 pulley system, translating 1/4 of the weight into the tension of the chain
 
-    [](https://www.notion.so/cc405b2ae60f4633b1de3cbf7248087d#4417f30970124ab1ad1c0665e139ad7f)
+    ![](https://imgur.com/d7jkqVI.jpg)
 
 # Safety Braces:
 
@@ -17,11 +17,11 @@
 
 Note: Part was assembled by 2 braces stacked on top of each other along with 4 face connectors to join the 2 braces together (all laser-cut from plywood)
 
-![](https://www.notion.so/cc405b2ae60f4633b1de3cbf7248087d#6542bfe1ffd94f75aab461e8b53ddd75)
+![](https://imgur.com/undefined.jpg)
 
 Bumper on one side of the brace to prevent the weights from colliding with the motor box
 
-![](https://www.notion.so/cc405b2ae60f4633b1de3cbf7248087d#a578e57c142142798ed78a04ca89a97d)
+![](https://imgur.com/undefined.jpg)
 
 Other side of the brace has a hole to hook a ratchet strap to weights for two dual purposes:
 
