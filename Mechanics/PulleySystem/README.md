@@ -9,7 +9,7 @@
 
 - Used a 1:4 pulley system, translating 1/4 of the weight into the tension of the chain
 
-    ![](https://imgur.com/d7jkqVI.jpg)
+    <img src="https://imgur.com/d7jkqVI.jpg" width="500">
 
 # Safety Braces:
 
@@ -17,11 +17,11 @@
 
 Note: Part was assembled by 2 braces stacked on top of each other along with 4 face connectors to join the 2 braces together (all laser-cut from plywood)
 
-![](https://imgur.com/Ayo8V5j.jpg)
+<img src="https://imgur.com/Ayo8V5j.jpg" width="200">
 
 Bumper on one side of the brace to prevent the weights from colliding with the motor box
 
-![](https://i.imgur.com/eKnwGxM.jpg)
+<img src="https://i.imgur.com/eKnwGxM.jpg" width="200">
 
 Other side of the brace has a hole to hook a ratchet strap to weights for two dual purposes:
 
@@ -42,7 +42,7 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
     - [Nut](https://www.amazon.com/Hillman-140021-Hex-Machine-Screw/dp/B000BQ8DE8) and [bolt](https://www.mcmaster.com/91772a253) used
     - [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
 
-![](https://imgur.com/FUGKGdd.jpg)
+<img src="https://imgur.com/FUGKGdd.jpg" width="200">
 
 ## Bottom corner of frame
 
@@ -54,4 +54,4 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
     - [Screws used](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690)
     - [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
 
-![](https://i.imgur.com/adBLQ9z.jpg)
+<img src="https://i.imgur.com/adBLQ9z.jpg" width="200">
