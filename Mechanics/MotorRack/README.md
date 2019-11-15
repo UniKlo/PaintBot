@@ -4,7 +4,7 @@
 
 [](https://www.notion.so/b14fb029b89f4ad78e4b3ff05a2afd27#5658852badc34c008f0e2ad05318c958)
 
-[OnShape Document](https://cad.onshape.com/documents/c35a5db4d6efdd4b831e7e66/w/d232ff81f911a9e59ca8bc06/e/0a6c8383d003cd06b363736f)
+For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5db4d6efdd4b831e7e66/w/d232ff81f911a9e59ca8bc06/e/0a6c8383d003cd06b363736f)
 
 ### Design goals
 
