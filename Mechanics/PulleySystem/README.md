@@ -17,11 +17,11 @@
 
 Note: Part was assembled by 2 braces stacked on top of each other along with 4 face connectors to join the 2 braces together (all laser-cut from plywood)
 
-![](https://imgur.com/undefined.jpg)
+![](https://imgur.com/Ayo8V5j.jpg)
 
 Bumper on one side of the brace to prevent the weights from colliding with the motor box
 
-![](https://imgur.com/undefined.jpg)
+![](https://i.imgur.com/eKnwGxM.jpg)
 
 Other side of the brace has a hole to hook a ratchet strap to weights for two dual purposes:
 
