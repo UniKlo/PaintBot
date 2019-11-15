@@ -1,5 +1,3 @@
-# Paint Bot!
-Overview of the paint bot: https://www.notion.so/Paint-Bot-9628c4905eeb4714969bc28a3e177a94<br/><br/>
 ![Paint Bot Image](https://github.com/movingfinger/hardware-piscine/blob/master/images/paintbot.png)
 
 ### Prerequisites
