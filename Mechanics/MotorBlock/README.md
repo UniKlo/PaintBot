@@ -24,4 +24,4 @@ holder block design is in the fusion
 
 chain guider / bearing shaft is in the fusion
 
-![](https://imgur.com/3U4viAJ)
+![](https://i.imgur.com/3U4viAJ.jpg)
