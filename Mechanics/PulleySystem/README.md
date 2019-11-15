@@ -1,4 +1,6 @@
-# Design considerations
+# Pulley System (Brackets)
+
+## Design considerations
 
 - Centerpiece held in place from the tension of two equal weights on opposite sides
 - ANSI Chain No. 25 used to connect the pulley systems.
@@ -11,7 +13,7 @@
 
     <img src="https://imgur.com/d7jkqVI.jpg" width="500">
 
-# Safety Braces:
+## Safety Braces:
 
 [Safety Brace CAD Link](https://cad.onshape.com/documents/6523397c12b1fe32c912b347/w/76bad9a677bbf1a6424c2140/e/f8c4142a4f75009b7d56d12f)
 
@@ -31,9 +33,9 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
 
 [Ratcheting strap](https://www.harborfreight.com/500-lb-capacity-1-in-x-14-ft-ratcheting-tie-down-61295.html) rated to hold 500 lb
 
-# Chain bearing Holders
+## Chain bearing Holders
 
-## Under Motor Box:
+### Under Motor Box:
 
 [CAD link](https://cad.onshape.com/documents/203398b8404b63665684f4c1/w/9d3ad5e87b235fabc014cf89/e/3029e69dfe6cc6b4cb731cfa)
 
@@ -44,7 +46,7 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
 
 <img src="https://imgur.com/FUGKGdd.jpg" width="200">
 
-## Bottom corner of frame
+### Bottom corner of frame
 
 [CAD link:](https://cad.onshape.com/documents/624bd94863b6c90403dc5483/w/e8e3d16901bbc782d0261a55/e/36c21db174f8b530e2a3a4fc)
 
