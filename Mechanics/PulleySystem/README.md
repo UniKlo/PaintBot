@@ -42,7 +42,7 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
     - [Nut](https://www.amazon.com/Hillman-140021-Hex-Machine-Screw/dp/B000BQ8DE8) and [bolt](https://www.mcmaster.com/91772a253) used
     - [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
 
-![](https://www.notion.so/cc405b2ae60f4633b1de3cbf7248087d#63a4daf6bada4ef98058867c7cd942fa)
+![](https://imgur.com/FUGKGdd.jpg)
 
 ## Bottom corner of frame
 
@@ -54,4 +54,4 @@ Other side of the brace has a hole to hook a ratchet strap to weights for two du
     - [Screws used](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690)
     - [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
 
-![](https://i.imgur.com/adBLQ9z)
+![](https://i.imgur.com/adBLQ9z.jpg)
