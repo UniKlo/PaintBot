@@ -13,7 +13,7 @@ Paintbot is a machine that paints upright surfaces. It's designed to extend to a
   * [Centerpiece](https://www.notion.so/Centerpiece-44509691334045c08109078ea8d19859)
   * [Spray Gun Holder](https://www.notion.so/Spray-Gun-Holder-26add799291e4e4d96202cdc39691f75)
   * [Motor Block](https://www.notion.so/Motor-Block-50bed532c9f64e57a7ba21309bb37436)
-  * [Pulley System (Brackets)(https://www.notion.so/Pulley-System-Brackets-cc405b2ae60f4633b1de3cbf7248087d)
+  * [Pulley System (Brackets)](https://www.notion.so/Pulley-System-Brackets-cc405b2ae60f4633b1de3cbf7248087d)
   * [Pillar](https://www.notion.so/Pillar-4e666ed7609345d0996ddad1bb53aaea)
   * [Pulley Weights 15Kg](https://www.notion.so/Pulley-weights-15kg-574a9ae08b9f49caa3a1026a463bdc84)
 
