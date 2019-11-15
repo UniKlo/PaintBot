@@ -33,7 +33,7 @@ Paintbot is a machine that paints upright surfaces. It's designed to extend to a
 
 For good paint result, each spray layer should have 50% overlay <br/>
 ### Demo 11/12/2019 <br/>
-![](https://i.imgur.com/oYlcXsh.mp4)<br/>
+![](https://i.imgur.com/oYlcXsh.gif)<br/>
 [Code](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) used encoders output to control the paintbot spraying 3 ft x 3 ft on the wall
 
 ### [Automatic Controls - (unfinished)](https://github.com/CaseySingleton/RoboLabPaintBotMotorController)
