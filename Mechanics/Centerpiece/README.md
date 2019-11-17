@@ -28,11 +28,11 @@ We extended this design to include two additional three-bar connections to stabi
 
 Since the chains meet at the origin of the center-piece, this design has many of the same benefits as the system above only with quadrilateral kinematics as opposed to triangular. However, this design did not remain stable after spray-gun recoiled. 
 
-<img src="https://imgur.com/QloOmfw.jpg" width="200">
+<img src="https://imgur.com/QloOmfw.jpg" width="300">
 
 Ring design with bricks to stabilize center-piece
 
-<img src="https://imgur.com/eRbLdn3" width="200">
+<img src="https://imgur.com/eRbLdn3.jpg" width="300">
 
 Maslow ring system 
 
