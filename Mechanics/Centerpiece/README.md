@@ -13,7 +13,7 @@
 
 1. **Triangular Linkage** → [Maslow Implementation](http://maslowcommunitygarden.org/Maslow-triangulation-linkage-kit.html)
 
-<img src="https://imgur.com/qjkO0tJ.jpg" width="200">
+<img src="https://imgur.com/qjkO0tJ.jpg" width="300">
 
 The figure above depicts a center-piece with two individual, three-bar connections. The chains connect to the solid blue dots in the middle of the second bar. The fixed points are at the four white holes with a blue cross. The advantages of this design as enumerated in in Maslow's kit:
 
