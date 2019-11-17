@@ -8,7 +8,7 @@
 Input Voltage: AC200V-240VOutput
 Voltage: DC 12VOutput Current: 0~30ANet
 Weight: 700gram
-Demension: 215*115*50mm
+Demension: 215x115x50mm
 Shell Material: Metal case / Aluminum case
 Safety Compliance: CCC / Rohs - High price-effective, reliability with industry standards
 Built-in over voltage, over current, and short circuit protection
