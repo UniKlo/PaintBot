@@ -2,7 +2,7 @@
 <img src="https://imgur.com/fasSOo4.jpg" width="700">
 
 ## Overview
-Paintbot is a machine that paints upright surfaces. It's designed to extend to arbitrary lengths to accommodate walls of any size, indoors and outdoors alike. This document is a wiki for the robot's mechanics, electronics and code.
+Paintbot is a machine that paints upright surfaces. It's a prototype that can paint indoor walls. The goal of this prototype is to extend it to paint or draw on walls of any size, indoors and outdoors alike. This document is a wiki for the robot's mechanics, electronics and code.
 
 [Blog documentation (Notion.so)](https://www.notion.so/Paint-Bot-9628c4905eeb4714969bc28a3e177a94)
 
