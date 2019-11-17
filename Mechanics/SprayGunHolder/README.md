@@ -8,7 +8,7 @@ Trigger press with 2 insert
 
 [Fusion](https://a360.co/2qdF6o9)
 
-<img src="https://imgur.com/AeDLb5b/jpg" width="200">
+<img src="https://imgur.com/4iCIMp8.jpg" width="200">
 
 <img src="https://imgur.com/PLCjnaO.jpg" width="200">
 
