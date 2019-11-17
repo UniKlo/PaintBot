@@ -1,6 +1,5 @@
 # PaintBot
-
-https://imgur.com/fasSOo4.jpg
+<img src="https://imgur.com/fasSOo4.jpg" width="700">
 
 ## Overview
 Paintbot is a machine that paints upright surfaces. It's designed to extend to arbitrary lengths to accommodate walls of any size, indoors and outdoors alike. This document is a wiki for the robot's mechanics, electronics and code.
