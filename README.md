@@ -31,7 +31,8 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 
 ## Code
 ### [Demo 11/12/2019](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) <br/>
-![](A6B893AF-5B91-4EBE-B7AC-E00EC545.gif)<br/>
+![](https://github.com/UniKlo/PaintBo\
+t/tree/master/img_gif/A6B893AF-5B91-4EBE-B7AC-E00EC545.gif)<br/>
 This used the encoders' output to control the displacement of the centerpiece so the paintbot could spray 3ft. x 3ft. area on the wall.
 
 ### [Automatic Controls](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
