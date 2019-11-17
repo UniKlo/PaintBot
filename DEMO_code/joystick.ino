@@ -1,3 +1,10 @@
+/*
+ * Author:  Sanghyun Ko, Felipe Prevelato, Casey Singleton, David Gaitsgory, Vincent Zhao, Robert Papagna
+ * Created: 11.12.2019
+ *
+ * (c) Copyright by 42 Robolab.
+ */
+
 /********************************** Joystick ***********************************
  *  Functions for control motor to move any direction we want.                 *
  *  Based on joystick input value, move the centerpiece up, right, left, down. *
