@@ -97,7 +97,7 @@ int loopNum = 1;
 void setup() {
   
   Serial.begin(9600);
-
+ 
   // MOVEMENT MOTORS
   pinMode(RPWMOutputLeft, OUTPUT);
   pinMode(LPWMOutputLeft, OUTPUT);
