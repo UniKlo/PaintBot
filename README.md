@@ -1,6 +1,6 @@
 # PaintBot
 <!-- <img src="https://imgur.com/fasSOo4.jpg" width="700"> -->
-![Paint Bot Image](https://github.com/UniKlo/PaintBot/blob/master/img_gif/Paintbot1.pngs://github.com/UniKlo/PaintBot/blob/master/img_gif/Paintbot1.png)
+![Paint Bot Image](https://github.com/UniKlo/PaintBot/blob/master/img_gif/Paintbot1.png)
 
 ## Overview
 Paintbot is a machine that paints upright surfaces. It's a prototype that can paint indoor walls. The goal of this prototype is to extend it to paint or draw on walls of any size, indoors and outdoors alike. This document is a wiki for the robot's mechanics, electronics and code.
