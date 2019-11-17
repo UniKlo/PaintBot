@@ -1,3 +1,10 @@
+/*
+ * Author:  Sanghyun Ko, Felipe Prevelato, Casey Singleton, David Gaitsgory, Vincent Zhao, Robert Papagna
+ * Created: 11.12.2019
+ *
+ * (c) Copyright by 42 Robolab.
+ */
+
 /************************************************************* SPRAY ***********************************************************
  * Functions in this tab                                                                                                       *
  * 1. Spray              : Tturns the z motor to engage the trigger to start spraying                                          *
