@@ -1,3 +1,10 @@
+/*
+ * Author:  Sanghyun Ko, Felipe Prevelato, Casey Singleton, David Gaitsgory, Vincent Zhao, Robert Papagna
+ * Created: 11.12.2019
+ *
+ * (c) Copyright by 42 Robolab.
+ */
+
 /************************** Code Usage ******************************
  *  This program is for paint bot which can paint 3 ft by 3 ft area *
  *  This code is divided to 5 sections,                             *
