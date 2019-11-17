@@ -2,8 +2,6 @@
 
 <img src="https://imgur.com/B8fPiiH.jpg" width="200">
 
-
-
 [OnShape Document](https://cad.onshape.com/documents/9436b4b003238d1dfd9249e6/w/013a2f8b46f01adf8d57174f/e/b9008f226251bdd07a1122cc)
 
 ### Design Goals
@@ -15,7 +13,7 @@
 
 1. **Triangular Linkage** → [Maslow Implementation](http://maslowcommunitygarden.org/Maslow-triangulation-linkage-kit.html)
 
-[](https://www.notion.so/44509691334045c08109078ea8d19859#f3f3aeb141fb41bc9290d251bbe5f23f)
+<img src="https://imgur.com/qjkO0tJ.jpg" width="200">
 
 The figure above depicts a center-piece with two individual, three-bar connections. The chains connect to the solid blue dots in the middle of the second bar. The fixed points are at the four white holes with a blue cross. The advantages of this design as enumerated in in Maslow's kit:
 
@@ -30,11 +28,11 @@ We extended this design to include two additional three-bar connections to stabi
 
 Since the chains meet at the origin of the center-piece, this design has many of the same benefits as the system above only with quadrilateral kinematics as opposed to triangular. However, this design did not remain stable after spray-gun recoiled. 
 
-[](https://www.notion.so/44509691334045c08109078ea8d19859#e9023324470e4ff096c7fca0d25fb30f)
+<img src="https://imgur.com/QloOmfw.jpg" width="200">
 
 Ring design with bricks to stabilize center-piece
 
-[](https://www.notion.so/44509691334045c08109078ea8d19859#5f1924a6298142a9be9f158f146b62b1)
+<img src="https://imgur.com/eRbLdn3" width="200">
 
 Maslow ring system 
 
@@ -42,6 +40,6 @@ Maslow ring system
 
 Here are other linkage systems which could serve as a basis for other iterations of the center-piece:
 
-[](https://www.notion.so/44509691334045c08109078ea8d19859#225e3729882a44e0af637cbf38c3d3aa)
+<img src="https://imgur.com/2jxo4EO.jpg" width="600">
 
 - [Tool for visualizing/testing kinematics](https://www.geogebra.org/)
