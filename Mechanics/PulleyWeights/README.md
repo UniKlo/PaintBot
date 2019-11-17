@@ -10,4 +10,4 @@ printed w 70% infill
 
 [Fusion](https://a360.co/2piFbqn)
 
-<img src="https://imgur.com/0aqqdF9" width="200">
+<img src="https://imgur.com/0aqqdF9.jpg" width="200">
