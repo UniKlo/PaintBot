@@ -1,3 +1,10 @@
+/*
+ * Author:  Sanghyun Ko, Felipe Prevelato, Casey Singleton, David Gaitsgory, Vincent Zhao, Robert Papagna
+ * Created: 11.12.2019
+ *
+ * (c) Copyright by 42 Robolab.
+ */
+
 /************************ SWITCH CONTROL ****************************
  * Loop for controlling arduino. This loop consists 4  parts,       *
  * 1. SQUARE            :  moving centerpiece only                  *
