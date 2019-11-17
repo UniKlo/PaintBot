@@ -29,11 +29,15 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
     * [XY Motors](https://electricscooterparts.com/motors-my6812.html)
     * [Z-Axis Motor](https://www.makermadecnc.com/product/z-axis-replacement-motor/)
 
-## DEMO_code
-
-For good paint result, each spray layer should have 50% overlay <br/>
-### Demo 11/12/2019 <br/>
+## Code
+### [Demo 11/12/2019] (https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) <br/>
 ![](A6B893AF-5B91-4EBE-B7AC-E00EC545.gif)<br/>
-[Code](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) used encoders output to control the paintbot spraying 3 ft x 3 ft on the wall
+This used the encoders' output to control the displacement of the centerpiece so the paintbot could spray 3ft. x 3ft. area on the wall.
 
-### [Automatic Controls - (unfinished)](https://github.com/CaseySingleton/RoboLabPaintBotMotorController)
+### [Automatic Controls]
+
+(https://github.com/CaseySingleton/RoboLabPaintBotMotorController)
+
+## Use
+ * For an even coat, each spray layer should have 50% overlay
+ * The spray-gun should 1ft. away from the wall
