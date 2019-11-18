@@ -1,4 +1,4 @@
-# Pulley System (Brackets)
+# Safety Brace and Brackets
 
 ## Design considerations
 
