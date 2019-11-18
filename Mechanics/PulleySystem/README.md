@@ -21,7 +21,7 @@ Note: Part was assembled by 2 braces stacked on top of each other along with 4 f
 
 <img src="https://imgur.com/Ayo8V5j.jpg" width="200">
 
-Bumper on one side of the brace to prevent the weights from going too hight and colliding with the motor box
+Bumper on one side of the brace to prevent the weights from going too high and colliding with the motor box
 
 <img src="https://i.imgur.com/eKnwGxM.jpg" width="200">
 
