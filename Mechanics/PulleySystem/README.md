@@ -20,7 +20,9 @@
 Note: Part was assembled by 2 braces stacked on top of each other along with 4 face connectors to join the 2 braces together (all laser-cut from plywood)
 
 <img src="https://imgur.com/Ayo8V5j.jpg" width="200">       <img src="https://i.imgur.com/eKnwGxM.jpg" width="200"> 
+
 Bumper on one side of the brace to prevent the weights from going too high and colliding with the motor box 
+
 Other side of the brace has a hole to hook a ratchet strap to weights for two dual purposes: 
 1. Tying weights down during transportation 
 2. Preventing weights from falling too far 
