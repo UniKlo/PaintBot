@@ -1,6 +1,17 @@
 #include "PaintBot.h"
 
 /**
+* The PaintBot class represents the painting robot as a whole. The purpose of
+* the PaintBot class is to simplify the initial set up and allow users to
+* easily move the center piece by entering coordinates, or by entering a
+* distance to travel, and an angle at which to travel. Automation of the center
+* piece movement can be easily achieved through a queue of coordinates.
+*
+* @author Casey Singleton
+* @version 1.0
+*/
+
+/**
 * Default constructor for the PaintBot class
 */
 PaintBot::PaintBot(void)

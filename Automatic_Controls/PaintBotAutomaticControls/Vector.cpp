@@ -1,6 +1,15 @@
 #include "Vector.h"
 
 /**
+* The Vec2 class is a simple representation of a two dimensional coordinate.
+* Overloading of arithmetic operators allows users to more easily manipulate
+* the Vec2 class.
+*
+* @author Casey Singleton
+* @version 1.0
+*/
+
+/**
 * Default constructor for Vec2 class
 * Public members x and y are set to 0.0 by default
 */

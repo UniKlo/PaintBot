@@ -1,6 +1,15 @@
 #include "GearBox.h"
 
 /**
+* The GearBox class represents the gear boxes on the painting robot. The GearBox
+* class' purpose is to reduce redundant code and to abstract away any arduino
+* code required for setting up a motor and an encoder.
+*
+* @author Casey Singleton
+* @version 1.0
+*/
+
+/**
 * Default constructor for the GearBox class
 */
 GearBox::GearBox(void)

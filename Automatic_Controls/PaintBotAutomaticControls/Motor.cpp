@@ -1,6 +1,15 @@
 #include "Motor.h"
 
 /**
+* The Motor class represents the Unite Motor Co. Model: MY6812B motor used
+* to create the PaintBot. The Motor class' purpose is to abstract away any
+* arduino code required for powering/spinning a motor.
+*
+* @author Casey Singleton
+* @version 1.0
+*/
+
+/**
 * Default constructor for the Motor class
 * The private members _rpwmPin and _lpwmPin are set to values that do not
 * exist on an arduino board. This allows for error checking if the user

@@ -1,5 +1,13 @@
 #include "PaintBot.h"
 
+/**
+* This is an example of setting up and using the PaintBot class to move the
+* center piece of the painting robot.
+*
+* @author Casey Singleton
+* @version 1.0
+*/
+
 #define CANVAS_WIDTH 84.5
 #define CANVAS_HEIGHT 64
 // UP, DOWN, RIGHT, LEFT are directions in radians
