@@ -1,18 +1,5 @@
 # Safety Brace and Brackets
 
-## Design considerations
-
-- Centerpiece held in place from the tension of two equal weights on opposite sides
-- ANSI Chain No. 25 used to connect the pulley systems.
-    - 140 lbs is the rated working load of the chain
-    - Specifications below:
-
-    [PDF](https://www.renoldjeffrey.com/media/2395574/ansi-standard-roller-chain-renold-jeffrey.pdf)
-
-- Used a 1:4 pulley system, translating 1/4 of the weight into the tension of the chain
-
-    <img src="https://imgur.com/d7jkqVI.jpg" width="500">
-
 ## Safety Braces:
 
 [Safety Brace CAD Link](https://cad.onshape.com/documents/6523397c12b1fe32c912b347/w/76bad9a677bbf1a6424c2140/e/f8c4142a4f75009b7d56d12f)
