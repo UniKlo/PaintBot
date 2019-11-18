@@ -11,3 +11,5 @@ printed w 70% infill
 [Fusion](https://a360.co/2piFbqn)
 
 <img src="https://imgur.com/0aqqdF9.jpg" width="200">
+
+7 Bricks (~2.3 kg ea) layered on top of each other encased in a metal frame
