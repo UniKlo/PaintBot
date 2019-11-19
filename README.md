@@ -59,5 +59,5 @@ This used the encoders' output to control the displacement of the centerpiece so
  * For an even coat, each spray layer should have 50% overlay
  * The spray-gun should 1ft. away from the wall
  
-## Iterations
+## Previous Iterations
  * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
