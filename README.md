@@ -15,13 +15,15 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
   
   * [Centerpiece](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece)<br/>
     <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/center%20piece.jpg" height="300px" width="400px"/>
-  - Placeholder for spray-gun to ensure proper upright position during spraying<br/>
+  - Placeholder for spray-gun to ensure proper upright position during spraying
   
   * [Spray Gun Holder](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/SprayGunHolder)<br/>
     <img src="https://i.imgur.com/Dsu4iA6.jpg" height="300px"/>
   - Case used to hold spray-gun along with the motor that controls activation and deactivation of spray
   
-  * [Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock) - Encasing for Motor Rack to ensure proper alignment of chains and sprockets
+  * [Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock)<br/>
+    <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/side.jpg" height="300px" width="400px"/>
+  - Encasing for Motor Rack to ensure proper alignment of chains and sprockets
   
   * [Safety Brace and Brackets](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleySystem) - Devices to ensure safe operations
   
