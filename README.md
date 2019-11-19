@@ -5,9 +5,6 @@
 ## Overview
 Paintbot is a machine that paints upright surfaces. It's a prototype that can paint indoor walls. The goal of this prototype is to extend it to paint or draw on walls of any size, indoors and outdoors alike. This document is a wiki for the robot's mechanics, electronics and code.
 
-## Iterations
-  * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
-  
 ## Mechanics
   * [Motor Rack with Tensioner](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)<br/>
     <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor%20rack%20with%20tensioner.jpg" height="300px">
@@ -60,3 +57,6 @@ This used the encoders' output to control the displacement of the centerpiece so
 ## Use
  * For an even coat, each spray layer should have 50% overlay
  * The spray-gun should 1ft. away from the wall
+ 
+## Iterations
+ * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
