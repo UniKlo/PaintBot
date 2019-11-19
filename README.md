@@ -9,7 +9,8 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
   * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
   
 ## Mechanics
-  * [Motor Rack with Tensioner](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack) - Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
+  * [Motor Rack with Tensioner](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)
+![motor tack with tensioner](https://github.com/UniKlo/PaintBot/blob/master/img_gif/Paintbot1.png) - Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
   * [Centerpiece](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece) - Placeholder for spray-gun to ensure proper upright position during spraying
   * [Spray Gun Holder](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/SprayGunHolder) - Case used to hold spray-gun along with the motor that controls activation and deactivation of spray
   * [Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock) - Encasing for Motor Rack to ensure proper alignment of chains and sprockets
