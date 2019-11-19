@@ -30,7 +30,8 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
     <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brackets.jpg" height="300px"/>
   - Devices to ensure safe operations
   
-  * [Pulley Weights 15Kg](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/>
+  * [Pulley Weights 15Kg](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/>
+    <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/>
   
   * [Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)
   
