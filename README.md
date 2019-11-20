@@ -19,7 +19,7 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 ![Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem)<br/>Need a picture here | - Design and Chain hook-up throughout the robot
 ![Paint Compressor]()<br/>Need a picture here | - compressor for the paint
 ![Electric Circuits]()<br/>Need a picture here | - Wiring schematics
-![2x4 Wood Stud]()Need a picture here | - Standard 2x4 Wood Framing Stud, please include what paint was used
+![2x4 Wood Stud]()<br/>Need a picture here | - Standard 2x4 Wood Framing Stud, please include what paint was used
 
 
 ## Electronics
