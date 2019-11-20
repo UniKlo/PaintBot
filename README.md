@@ -13,8 +13,8 @@ Centerpiece<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif
 Spray Gun Holder<br/><img src="https://i.imgur.com/Dsu4iA6.jpg" height="300px"/> | [More info for Spray Gun Holder](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/SprayGunHolder)<br/> - Case used to hold spray-gun along with the motor that controls activation and deactivation of spray
 Safety Brace<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brace.jpg" height="300px"/> | [More Info for Safety Brace](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleySystem)<br/> - Protects against impact and dropping of weights
 Wooden Bracket<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brackets.jpg" height="300px"/>| [More info for Wooden Bracket]()<br/> - Devices to ensure safe operations
-Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Pulley Weights<br/>Need a picture here | [More info for Pulley System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/> Weight for system
-Frame<br/>Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar) - Part of the frame of the PaintBot
+Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Pulley Weights<br/> | [More info for Pulley Weights](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/> Weight for system
+Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar) - Part of the frame of the PaintBot
 Chain system<br/>Need a picture here | [Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
 [Paint Compressor]()<br/>Need a picture here | - compressor for the paint
 [Electric Circuits]()<br/>Need a picture here | - Wiring schematics
