@@ -17,13 +17,10 @@ Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_g
 Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar) - Part of the frame of the PaintBot <br/> - Standard 2x4 Wood Framing Stud, please include what paint was used
 Chain system<br/>Need a picture here | [More info on Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
 Paint Compressor <br/> Need a picture here | [More info on Paint Compressor]() <br/> - compressor for the paint
-Electric Circuits <br/> (https://user-images.githubusercontent.com/49771001/69263976-3cf82600-0b7b-11ea-93e3-42bb1a5ccafc.png)  | [More info on ]() <br/> - Wiring schematics
+Electric Circuits <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" height="300px"/>  | [More info on ]() <br/> - Wiring schematics
 
 
 ## Electronics
-  - ### Wiring Schematics
-    * [Circuits and Connections with Pictures](https://github.com/UniKlo/PaintBot/tree/master/Electronics/Wiring)
-  
   - ###  Parts Reference
     * [Spray Gun](https://www.amazon.com/Graco-257025-Project-Painter-Sprayer/dp/B004Z2090U/ref=asc_df_B004Z2090U/?tag=hyprod-20&linkCode=df0&hvadid=198077767340&hvpos=1o2&hvnetw=g&hvrand=15997159825197345473&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032020&hvtargid=pla-373698499647&psc=1)
     * [Arduino Mega 2560](https://store.arduino.cc/usa/mega-2560-r3)
