@@ -8,18 +8,18 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 ## Mechanics
 | Part | Description |
 :-------------------------:|:-------------------------:
-Motor Rack with Tensioner<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor%20rack%20with%20tensioner.jpg" height="300px"><br/> | [More info](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)<br/>- Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
-Centerpiece<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/center%20piece.jpg" height="300px"/> |[Centerpiece](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece)<br/>- Placeholder for spray-gun to ensure proper upright position during spraying
-![Spray Gun Holder](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/SprayGunHolder)<br/><img src="https://i.imgur.com/Dsu4iA6.jpg" height="300px"/> | - Case used to hold spray-gun along with the motor that controls activation and deactivation of spray
-![Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock)<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/side.jpg" height="300px"/> | - Encasing for Motor Rack to ensure proper alignment of chains and sprockets
-![Safety Brace](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleySystem)<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brace.jpg" height="300px"/> | - Protects against impact and dropping of weights
-![Wooden Bracket]()<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brackets.jpg" height="300px"/> | - Devices to ensure safe operations
-![Pulley System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Weight for system
-![Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)<br/>Need a picture here | - Part of the frame of the PaintBot
-![Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem)<br/>Need a picture here | - Design and Chain hook-up throughout the robot
-![Paint Compressor]()<br/>Need a picture here | - compressor for the paint
-![Electric Circuits]()<br/>Need a picture here | - Wiring schematics
-![2x4 Wood Stud]()<br/>Need a picture here | - Standard 2x4 Wood Framing Stud, please include what paint was used
+Motor Rack with Tensioner<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor%20rack%20with%20tensioner.jpg" height="300px"><br/>Motor Block<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/side.jpg" height="300px"/> | [More info for Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)<br/>[Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock)<br/>- Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
+Centerpiece<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/center%20piece.jpg" height="300px"/> | [More info](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece)<br/>- Placeholder for spray-gun to ensure proper upright position during spraying
+Spray Gun Holder<br/><img src="https://i.imgur.com/Dsu4iA6.jpg" height="300px"/> | [More info](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/SprayGunHolder)<br/> - Case used to hold spray-gun along with the motor that controls activation and deactivation of spray
+<img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/side.jpg" height="300px"/> | - Encasing for Motor Rack to ensure proper alignment of chains and sprockets
+[Safety Brace](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleySystem)<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brace.jpg" height="300px"/> | - Protects against impact and dropping of weights
+[Wooden Bracket]()<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brackets.jpg" height="300px"/> | - Devices to ensure safe operations
+[Pulley System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Weight for system
+[Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)<br/>Need a picture here | - Part of the frame of the PaintBot
+[Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem)<br/>Need a picture here | - Design and Chain hook-up throughout the robot
+[Paint Compressor]()<br/>Need a picture here | - compressor for the paint
+[Electric Circuits]()<br/>Need a picture here | - Wiring schematics
+[2x4 Wood Stud]()<br/>Need a picture here | - Standard 2x4 Wood Framing Stud, please include what paint was used
 
 
 ## Electronics
