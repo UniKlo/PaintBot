@@ -6,9 +6,10 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 ![](https://user-images.githubusercontent.com/49771001/69208512-aee35780-0b08-11ea-93d2-45092e5c55ee.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif)
 
 ## Mechanics
+| Overview | Demo |
+:-------------------------:|:-------------------------:
   * [Motor Rack with Tensioner](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)<br/>
-    <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor%20rack%20with%20tensioner.jpg" height="300px">
-  - Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
+    <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor%20rack%20with%20tensioner.jpg" height="300px"> |- Controls the movement and location of the centerpiece by feeding or withdrawing chain from opposite ends using proper motor control
   
   * [Centerpiece](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece)<br/>
     <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/center%20piece.jpg" height="300px"/>
