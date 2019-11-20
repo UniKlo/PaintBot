@@ -14,10 +14,10 @@ Spray Gun Holder<br/><img src="https://i.imgur.com/Dsu4iA6.jpg" height="300px"/>
 Safety Brace<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brace.jpg" height="300px"/> | [More Info for Safety Brace](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleySystem)<br/> - Protects against impact and dropping of weights
 Wooden Bracket<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/safety%20brackets.jpg" height="300px"/>| [More info for Wooden Bracket]()<br/> - Devices to ensure safe operations
 Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Pulley Weights<br/> | [More info for Pulley Weights](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/> Weight for system
-Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar) - Part of the frame of the PaintBot <br/> - Standard 2x4 Wood Framing Stud, please include what paint was used
+Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)<br/> - Part of the frame of the PaintBot <br/> - Standard 2x4 Wood Framing Stud, please include what paint was used
 Chain system<br/>Need a picture here | [More info on Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
 Paint Compressor <br/> Need a picture here | [More info on Paint Compressor]() <br/> - compressor for the paint
-Electric Circuits <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg">  | [More info on ]() <br/> - Wiring schematics
+Control Box <br/> What picture to use here? | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg"> <br/> [More info on ]()
 
 
 ## Electronics
