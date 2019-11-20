@@ -17,7 +17,7 @@ Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_g
 Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)<br/> - Part of the frame of the PaintBot <br/> - Standard 2x4 Wood Framing Stud, please include what paint was used
 Chain system<br/>Need a picture here | [More info on Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
 Paint Compressor <br/> Need a picture here | [More info on Paint Compressor]() <br/> - compressor for the paint
-Control Box <br/> What picture to use here? | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" {:height="24px" width="48px"}> <br/> [More info on ]()
+Control Box <br/> What picture to use here? | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" height="24px" width="48px"> <br/> [More info on ]()
 
 
 ## Electronics
