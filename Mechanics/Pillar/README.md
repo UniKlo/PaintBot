@@ -6,4 +6,4 @@ it has 2 different height of base you can change it to
 
 <img src="https://imgur.com/GtiJIYm.jpg" width="600">
 
-![Vertical support instructions](https://github.com/UniKlo/PaintBot/tree/master/img_gif/VerticalSupportAssembly.jpg)
+![Vertical support instructions](https://github.com/UniKlo/PaintBot/blob/master/img_gif/VerticalSupportAssembly.jpg)
