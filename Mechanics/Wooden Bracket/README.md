@@ -15,7 +15,7 @@
 * [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
 * [Nut](https://www.amazon.com/Hillman-140021-Hex-Machine-Screw/dp/B000BQ8DE8)
 * [Bolt](https://www.mcmaster.com/91772a253)
-* [Screws](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690)
+* [Screws](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690) with washers
 
 ## CAD Documents
 
