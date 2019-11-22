@@ -8,3 +8,4 @@
 * Following instructions are for creating 1 Full Safety Brace, a total of 4 are attached to the frame (2 on each pillar) 
 1. Laser cut 2x Safety Braces and 4x face connectors
 2. Connect all pieces together by hand or mallet
+3. Attach the Full Safety Brace to the frame to desired location with 2-4 screws
