@@ -10,7 +10,6 @@
 ## Force diagrams
 | Force diagram | Equations and considerations |
 | :------: | :------- |
-| Assumptions | Points A, B, C, and D are locations where the screw is drilled into
 <img width="350" height="380" alt="Safety Brace FD2" src="https://user-images.githubusercontent.com/49771001/69446986-64312d80-0d0a-11ea-9f77-441463fafe43.png"> | To be Updated
 <img width="350" height="380" alt="Safety Brace FD1" src="https://user-images.githubusercontent.com/49771001/69446980-5f6c7980-0d0a-11ea-8d40-26e03156ee5d.png"> | To be Updated
 ## CAD Documents
