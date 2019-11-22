@@ -1,5 +1,6 @@
 # Wooden Bracket
-
+| <img width="362" alt="Screen Shot 2019-11-22 at 10 07 30 AM" src="https://user-images.githubusercontent.com/49771001/69449521-f12ab580-0d0f-11ea-8fcc-b821597cb040.png"> | 
+| :---: |
 ## Design Goals
 * To be able to withstand the tension of the chain during operation
 * To create a bracket at low cost
