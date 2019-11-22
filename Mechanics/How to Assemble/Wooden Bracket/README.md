@@ -1,6 +1,6 @@
 # How to Assemble
 
-![Wooden Bracket](https://user-images.githubusercontent.com/49771001/69452123-d65b3f80-0d15-11ea-897b-17dfede31787.jpg)
+![Wooden Bracket CAD](https://user-images.githubusercontent.com/49771001/69452753-4cac7180-0d17-11ea-9cf9-dd54db3ae926.jpg)
 
 ## Instructions
 * Refer to CAD Drawing above 
