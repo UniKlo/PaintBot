@@ -13,4 +13,4 @@
 
 [Onshape](https://cad.onshape.com/documents/624bd94863b6c90403dc5483/w/e8e3d16901bbc782d0261a55/e/36c21db174f8b530e2a3a4fc)
 
-![Wooden Bracket]()
+![Wooden Bracket](https://user-images.githubusercontent.com/49771001/69452753-4cac7180-0d17-11ea-9cf9-dd54db3ae926.jpg)
