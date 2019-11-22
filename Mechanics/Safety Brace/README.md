@@ -1,5 +1,7 @@
 # Safety Brace
 
+<img src="https://imgur.com/Ayo8V5j.jpg" width="200">       <img src="https://i.imgur.com/eKnwGxM.jpg" width="200"> 
+
 ## Design Goals
 * To be able to withstand the tension of the chain during operation
 * To create a bracket at low cost
