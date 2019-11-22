@@ -14,6 +14,7 @@
 ## Materials Used
 * Plywood
 * [Ratcheting strap](https://www.harborfreight.com/500-lb-capacity-1-in-x-14-ft-ratcheting-tie-down-61295.html) rated to hold 500 lb
+* [Screws](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690)
 
 ## CAD Documents
 * [Onshape](https://cad.onshape.com/documents/6523397c12b1fe32c912b347/w/76bad9a677bbf1a6424c2140/e/f8c4142a4f75009b7d56d12f)
