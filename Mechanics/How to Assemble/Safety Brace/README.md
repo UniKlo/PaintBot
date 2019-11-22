@@ -5,6 +5,6 @@
 # Instructions
 * Refer to CAD drawing above for dimensions
 * Note: Material used was plywood with a depth of 10 mm, please redimension according to material used
-* Following instructions are for creating 1 Safety Brace, a total of 4 are attached to the frame (2 on each pillar) 
-1. Laser cut 2x Safety Braces faces and 4x face connectors
+* Following instructions are for creating 1 Full Safety Brace, a total of 4 are attached to the frame (2 on each pillar) 
+1. Laser cut 2x Safety Braces and 4x face connectors
 2. Connect all pieces together by hand or mallet
