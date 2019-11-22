@@ -4,7 +4,7 @@
 
 ## Design Goals
 * To prevent the pulley wegihts from ascending and descending to far from operating range of the Pulley Weights
-* To develop an easier means of stabilizing pulley weights during transportation, installation, and modification of the Paintbot
+* To develop an easier means of stabilizing pulley weights during transportation, installation, and modification of the Paintbot (Tested: Brace able to hold weight from 2 ft drop)
 * To add aesthetic detail and brand the robot with the 42 logo
 
 ## Force diagrams
