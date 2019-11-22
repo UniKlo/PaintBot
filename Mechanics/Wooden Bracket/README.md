@@ -9,6 +9,14 @@
 ## Force Diagrams
 <img width="430" alt="Screen Shot 2019-11-22 at 10 05 03 AM" src="https://user-images.githubusercontent.com/49771001/69449360-9ee99480-0d0f-11ea-87fe-da264dbf4c6f.png">
 
+
+## Materials Used
+* Plywood
+* [Groove ball bearing](https://www.alibaba.com/product-detail/High-precision-zz809-abec-7-deep_60718249836.html?spm=a2700.7724857.main07.17.1bd252feC2zsEu)
+* [Nut](https://www.amazon.com/Hillman-140021-Hex-Machine-Screw/dp/B000BQ8DE8)
+* [Bolt](https://www.mcmaster.com/91772a253)
+* [Screws](https://www.homedepot.com/p/Pro-Twist-7-x-2-in-Phillips-Bugle-Head-Coarse-Thread-Drywall-Screws-CS2005/207018690)
+
 ## CAD Documents
 
 [Onshape](https://cad.onshape.com/documents/624bd94863b6c90403dc5483/w/e8e3d16901bbc782d0261a55/e/36c21db174f8b530e2a3a4fc)
