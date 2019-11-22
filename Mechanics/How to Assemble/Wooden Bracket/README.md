@@ -13,5 +13,4 @@
 * 1x Bottom Pillar (3 pieces)
 * 1x Left & Right Pillars (8 pieces total)
 2. Follow diagram below to connect pieces together to make Wooden Bracket
-
 ![](https://raw.githubusercontent.com/UniKlo/PaintBot/master/img_gif/HeartAnchorAssemblyDrawing.jpg)
