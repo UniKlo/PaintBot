@@ -1,1 +1,15 @@
+# Wooden Bracket
 
+## Design Goals
+* To be able to withstand the tension of the chain during operation
+* To create a bracket at low cost
+* To add aesthetic detail as well as signify our love for this robot
+
+## Force Diagrams
+<img width="430" alt="Screen Shot 2019-11-22 at 10 05 03 AM" src="https://user-images.githubusercontent.com/49771001/69449360-9ee99480-0d0f-11ea-87fe-da264dbf4c6f.png">
+
+## CAD Documents
+
+[Onshape](https://cad.onshape.com/documents/624bd94863b6c90403dc5483/w/e8e3d16901bbc782d0261a55/e/36c21db174f8b530e2a3a4fc)
+
+![Wooden Bracket]()
