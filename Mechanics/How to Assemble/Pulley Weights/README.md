@@ -4,9 +4,9 @@
 
 6x Clay Bricks <br/>
 Aluminum strips <br/>
-Bolts
-Wing nuts
-Weight Connect
+Bolts <br/>
+Wing nuts <br/> 
+Weight Connect <br/>
 Acrylic cut chain guide
 
 ## Instructions
