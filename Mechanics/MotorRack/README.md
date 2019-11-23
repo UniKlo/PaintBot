@@ -1,8 +1,6 @@
 # Motor Rack with Tensioner
 
-<img src="https://imgur.com/nwCuBPG.jpg" width="200">
-
-<img src="https://imgur.com/Q2PnVoB.jpg" width="200">
+ <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor_rack_with_tensioner_H.jpg" width="200px">  <img src="https://imgur.com/nwCuBPG.jpg" width="200">   <img src="https://imgur.com/Q2PnVoB.jpg" width="200">
 
 For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5db4d6efdd4b831e7e66/w/d232ff81f911a9e59ca8bc06/e/0a6c8383d003cd06b363736f)
 
@@ -11,20 +9,8 @@ For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5
 - Align encoder, motor and big gear (to lower RPM for a controlled speed and increased torque)
 - Secure motor
 
-## Assembly instructions
 
-- For each face of the Motor Rack, attach the bottom of the faces into each motor block with screws
-- From there, assemble rest of Motor Rack
-    - Place the motor inside the frame
-    - install the tensioner with the motor
-    - Join the cage with plywood and secure with cage bolts
-    - place the 80 tooth gear and testing the alignment
-    - put the small chain on
-    - tighten the tensioner
-
-<img src="https://imgur.com/yxdo1U2.jpg" width="200">
-
-### Parts
+## Parts
 
 **Cage Bolt** - [10-24 x 1/2" Machine Screws / Phillips](https://www.mcmaster.com/91772a253)
 
