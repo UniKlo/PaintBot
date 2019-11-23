@@ -1,9 +1,13 @@
 # How to assemble Frame
 
 ## Instructions
-![Vertical support instructions](https://github.com/UniKlo/PaintBot/blob/master/img_gif/VerticalSupportAssembly.jpg)
-
+### Assembling the Pillars
 <img width="1072" alt="Frame Pillar" src="https://user-images.githubusercontent.com/49771001/69483010-454c9d00-0dd7-11ea-8620-616e3793fe2f.png">
+#### Steps
+1. 
+2. 
+3.
+4. 
 
 <img width="1063" alt="Frame pillar accessories" src="https://user-images.githubusercontent.com/49771001/69483018-4978ba80-0dd7-11ea-83f2-0094038ba6f3.png">
 
