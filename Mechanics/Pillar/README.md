@@ -14,6 +14,7 @@
   * Has 4 anchor points 
     * Dimensions are arbitary as we only need 4 anchor points to fully operate the PaintBot
   
+## Parts
 | Part | Description |
 | :--: | :---------  |
 **2"x4" Wood Stud** <br/> <img width="387" alt="Screen Shot 2019-11-23 at 9 20 17 AM" src="https://user-images.githubusercontent.com/49771001/69482775-7bd4e880-0dd4-11ea-9284-d9fcaadc7f1f.png"> | [2 in. x 4 in. x 96 in. Premium Kiln-Dried Whitewood Stud](https://www.homedepot.com/p/2-in-x-4-in-x-96-in-Premium-Kiln-Dried-Whitewood-Stud-161640/2020912200)
