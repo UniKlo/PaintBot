@@ -8,14 +8,14 @@
 2. Cut stud to desired height and connect it to the base <br/>
 3. Cut stud to matching height and connect it to the previous stud <br/>
 4. Cut stud to matching height and connect it to sides of the last two studs <br/>
-**Repeat this process to create the second pillar**
+*Repeat this process to create the second pillar
 
 ### Adding Accessories
 <img width="900" alt="Frame pillar accessories" src="https://user-images.githubusercontent.com/49771001/69483018-4978ba80-0dd7-11ea-83f2-0094038ba6f3.png">
 1. Check proper assembly of Pillars <br/>
 2. Connect the wooden bracket close to the bottom of the pillar <br/>
 3. Connect two Safety Braces close to the top of the pillar depending on your maximum operation range of the pulley weights <br/>
-**Repeat this process for the second pillar**
+*Repeat this process for the second pillar*
 
 ### Connecting the Pillars
 <img width="900" alt="Frame horizontal" src="https://user-images.githubusercontent.com/49771001/69483017-47aef700-0dd7-11ea-9265-3ee0e8d8ef1c.png">
