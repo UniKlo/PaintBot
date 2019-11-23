@@ -1,6 +1,6 @@
 # Motor Rack with Tensioner
 
- <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor_rack_with_tensioner_H.jpg" width="200px">  <img src="https://imgur.com/nwCuBPG.jpg" width="200">   <img src="https://imgur.com/Q2PnVoB.jpg" width="200">
+ <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor_rack_with_tensioner_H.jpg" width="300px">  <img src="https://imgur.com/nwCuBPG.jpg" width="300">   <img src="https://imgur.com/Q2PnVoB.jpg" width="300">
 
 For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5db4d6efdd4b831e7e66/w/d232ff81f911a9e59ca8bc06/e/0a6c8383d003cd06b363736f)
 
