@@ -22,5 +22,5 @@
 *3.* | <img src="https://i.imgur.com/cDph69j.jpg" width="200"> | 2 bearings on each side of the wooden brick <br/> Plywood chain guider piece does not have a design
 *4.* | <img src="https://i.imgur.com/3U4viAJ.jpg" width="200"> | 2 bearings on pully <br/> Holder block design is in the fusion <br/> Chain guider / bearing shaft is in the fusion
 
-![](https://raw.githubusercontent.com/UniKlo/PaintBot/master/img_gif/MotorRackAssemblyDrawing.jpg)
-![](https://raw.githubusercontent.com/UniKlo/PaintBot/master/img_gif/MotorRackSupportsDrawing.jpg)
+![](<img width="1205" alt="Motor Assemble1" src="https://user-images.githubusercontent.com/49771001/69472996-16e2a980-0d66-11ea-9e74-3911ddbe0361.png">)
+![](<img width="1176" alt="Motor Assemble2" src="https://user-images.githubusercontent.com/49771001/69472999-1a763080-0d66-11ea-8d01-7f5637f00f47.png">)
