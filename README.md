@@ -6,7 +6,7 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/paintbot_v5.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif) <br/> Autonomously paints a 3'x 3' square on the wall
 
 ## Mechanics
-| | Part | Description |
+| | ***Part*** | Description |
 :---:|:-------------------------:|:-------------------------
 A. | Motor Rack with Tensioner <br/> <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/motor_rack_with_tensioner_H.jpg" height="300px"> | Device that controls the movement of the centerpiece and spray gun by feeding or withdrawing chain from opposite ends <br/><br/> [Design goals, parts, CAD drawings/documents](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack) <br/><br/> [How to assemble](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/How%20to%20Assemble/Motor%20Rack%20with%20Tensioner/README.md)<br/><br/> [Extra info for Motor Block](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorBlock) 
 B. | Centerpiece <br/> <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/center_piece_H.jpg" height="300px"/> | Placeholder for spray-gun to ensure proper upright position during spraying <br/><br/> [Design goals, Force diagrams, CAD drawing/documents, and Iterations](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Centerpiece)
