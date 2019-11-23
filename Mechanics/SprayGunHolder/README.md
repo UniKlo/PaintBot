@@ -1,6 +1,13 @@
 # Spray Gun Holder
-
 <img src="https://i.imgur.com/Dsu4iA6.jpg" width="200">
+
+## Design Goals
+* Stablize spray gun during operation
+** Created handle holder inserts to keep spray gun handle snugly fitted into encasing
+** Front and back support created by 3D printing peices using Ender-3 3D printer with PLA filament
+* Establish control over trigger handle
+** Motor attached to encasing that rotates trigger press at exact angles to engage/disengage trigger on spray gun
+
 
 Trigger press with 2 insert
 
