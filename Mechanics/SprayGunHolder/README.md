@@ -12,6 +12,7 @@
 | :--: | :--: |
 <img src="https://imgur.com/gK6uO00.jpg" width="200"> | handle holder — spray_back_support <br/> [Fusion](https://a360.co/32H2Jmt)
 <img src="https://imgur.com/bFa2jcc.jpg" width="200"> | handle holder — spray_front_support <br/> [Fusion](https://a360.co/2NJBYti)
+<img src="https://imgur.com/PLCjnaO.jpg" width="200"> | Trigger control
 
 Trigger press with 2 insert
 
@@ -21,7 +22,7 @@ Trigger press with 2 insert
 
 <img src="https://imgur.com/4iCIMp8.jpg" width="200">
 
-<img src="https://imgur.com/PLCjnaO.jpg" width="200">
+
 
 
 
