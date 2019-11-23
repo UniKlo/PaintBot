@@ -2,14 +2,14 @@
 
 <img src="https://imgur.com/B8fPiiH.jpg" width="200">
 
-[OnShape Document](https://cad.onshape.com/documents/9436b4b003238d1dfd9249e6/w/013a2f8b46f01adf8d57174f/e/b9008f226251bdd07a1122cc)
-
-### Design Goals
+## Design Goals
 
 - Hold the spray-gun in place as it shoots paint
 - Displaced across 2D plane, attached to chain ends
 
-### Iterations
+[OnShape Document](https://cad.onshape.com/documents/9436b4b003238d1dfd9249e6/w/013a2f8b46f01adf8d57174f/e/b9008f226251bdd07a1122cc)
+
+## Iterations
 
 1. **Triangular Linkage** → [Maslow Implementation](http://maslowcommunitygarden.org/Maslow-triangulation-linkage-kit.html)
 
