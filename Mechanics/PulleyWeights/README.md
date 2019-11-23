@@ -11,6 +11,6 @@
 ## Parts
 | | Part | Description |
 |:-| :--:| :--- |
-A. | **Weight Connect** < br/> <img src="https://imgur.com/0aqqdF9.jpg" width="200"> | printed w 70% infill <br/><br/> [Fusion document](https://a360.co/2piFbqn)
+A. | **Weight Connect** <br/> <img src="https://imgur.com/0aqqdF9.jpg" width="200"> | printed w 70% infill <br/><br/> [Fusion document](https://a360.co/2piFbqn)
 B. | **acrylic cut chain guide with 3d printed bearing shaft** <br/> <img src="https://imgur.com/XQz3el3.jpg" width="200"> | 
-C. | **Clay bricks** | Clay bricks (~2.3 kg ea) layered on top of each other encased in a metal frame
+C. | **Clay bricks** <br/> <img width="200" alt="Brick" src="https://user-images.githubusercontent.com/49771001/69483534-3ff25100-0ddd-11ea-906d-ec8af0639247.png"> | Clay bricks (~2.3 kg ea) layered on top of each other encased in a metal frame
