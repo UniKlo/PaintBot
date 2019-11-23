@@ -8,6 +8,7 @@ For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5
 
 * Align the encoder, motor, Sprockets for safe and consistently operations
 * Use the least amount of power to control movement of centerpiece while increasing mechanical advantage of motor 
+
 | Assumptions | Calculations |
 | :--- | :--- |
 | 9 Tooth #25 chain
