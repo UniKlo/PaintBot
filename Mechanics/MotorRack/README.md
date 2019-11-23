@@ -11,10 +11,16 @@ For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5
 
 
 ## Parts
-
-**Cage Bolt** - [10-24 x 1/2" Machine Screws / Phillips](https://www.mcmaster.com/91772a253)
-
-<img src="https://www.mcmaster.com/mvB/Contents/gfx/ImageCache/917/91772A253p1-b01-digitall@2x_636619301374924024.png" width="200">
+| | Part | Description |
+| | :---: | :--- |
+A. | **Cage Bolt** <br/> <img src="https://www.mcmaster.com/mvB/Contents/gfx/ImageCache/917/91772A253p1-b01-digitall@2x_636619301374924024.png" width="200"> | [10-24 x 1/2" Machine Screws / Phillips](https://www.mcmaster.com/91772a253)
+B. | 
+C. | 
+D. | 
+E. | 
+F. | 
+G. | 
+H. | 
 
 **Sprocket -** [ANSI 25 Chain, 10 Teeth, for 1/4" Shaft Diameter](https://www.mcmaster.com/6799k2)
 
