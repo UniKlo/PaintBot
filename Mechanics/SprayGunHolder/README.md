@@ -10,7 +10,7 @@
 
 ## Parts
 | | Part | Description |
-| | :--: | :-- |
+|:-: | :--: | :-- |
 A. | Handle holder back support <br/> <img src="https://imgur.com/gK6uO00.jpg" width="200"> | Support holder for the back of the spray gun in encasing <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion document](https://a360.co/32H2Jmt)
 B. | Handle holder front support <br/> <img src="https://imgur.com/bFa2jcc.jpg" width="200"> | Support holder for the front of the spray gun in encasing <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion document](https://a360.co/2NJBYti)
 C. | Trigger control <br/> <img src="https://imgur.com/PLCjnaO.jpg" width="200"> | Piece that rotates a set angles to press/release the trigger of the spray gun <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion docuemnt](https://a360.co/2qdF6o9)
