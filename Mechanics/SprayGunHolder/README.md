@@ -5,13 +5,13 @@
 * Stablize spray gun during operation
   * Created handle holder inserts to keep spray gun handle snugly fitted into encasing
   * Front and back support created by 3D printing peices using Ender-3 3D printer with PLA filament
+* Establish control over trigger handle
+  * Motor attached to encasing that rotates trigger press at exact angles to engage/disengage trigger on spray gun
+
 | Part | Description |
 | :--: | :--: |
 <img src="https://imgur.com/gK6uO00.jpg" width="200"> | handle holder — spray_back_support <br/> [Fusion](https://a360.co/32H2Jmt)
 <img src="https://imgur.com/bFa2jcc.jpg" width="200"> | handle holder — spray_front_support <br/> [Fusion](https://a360.co/2NJBYti)
-* Establish control over trigger handle
-  * Motor attached to encasing that rotates trigger press at exact angles to engage/disengage trigger on spray gun
-
 
 Trigger press with 2 insert
 
