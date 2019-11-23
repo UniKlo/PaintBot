@@ -17,13 +17,8 @@
 
 | Step | Pic | Description |
 |:--- | :---: | :--- |
-1. | <img src="https://i.imgur.com/ReJ5luc.jpg" width="200"> | The front brick metal bracket <br/> 2 bearings on each side of the wooden brick
-
-
-
-the back brick is secured by the giant bolt from the middle
-
-<img src="https://i.imgur.com/atQgRmH.jpg" width="200">
+*1.* | <img src="https://i.imgur.com/ReJ5luc.jpg" width="200"> | The front brick metal bracket <br/> 2 bearings on each side of the wooden brick
+*2.* | <img src="https://i.imgur.com/atQgRmH.jpg" width="200"> | the back brick is secured by the giant bolt from the middle
 
 2 bearings on each side of the wooden brick
 
