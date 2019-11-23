@@ -14,7 +14,7 @@
 Handle holder back support <br/> <img src="https://imgur.com/gK6uO00.jpg" width="200"> | Support holder for the back of the spray gun in encasing <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion document](https://a360.co/32H2Jmt)
 Handle holder front support <br/> <img src="https://imgur.com/bFa2jcc.jpg" width="200"> | Support holder for the front of the spray gun in encasing <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion document](https://a360.co/2NJBYti)
 Trigger control <br/> <img src="https://imgur.com/PLCjnaO.jpg" width="200"> | Piece that rotates a set angles to press/release the trigger of the spray gun <br/> Designed based off generative design from Fusion360 <br/> <br/> [Fusion docuemnt](https://a360.co/2qdF6o9)
-Spray gun case plate < br/> <img width="200" alt="spray gun case plate" src="https://user-images.githubusercontent.com/49771001/69470183-d5dc9c00-0d49-11ea-8fd1-304b8a5d3f94.png"> | Plate used to sandwich the spray gun to attach encasing to the centerpiece <br/> <br/> [Onshape Document](https://cad.onshape.com/documents/1afd4bb96db52c9d48902d08/w/6062089c01f4dd5aed92443b/e/296895f7a25a43b16682dfb6)
+Spray gun case plate <br/> <img width="200" alt="spray gun case plate" src="https://user-images.githubusercontent.com/49771001/69470183-d5dc9c00-0d49-11ea-8fd1-304b8a5d3f94.png"> | Plate used to sandwich the spray gun to attach encasing to the centerpiece <br/> <br/> [Onshape Document](https://cad.onshape.com/documents/1afd4bb96db52c9d48902d08/w/6062089c01f4dd5aed92443b/e/296895f7a25a43b16682dfb6)
 
 
 3mm bolts
