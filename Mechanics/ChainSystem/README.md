@@ -2,7 +2,7 @@
 
 The goal of the centerpiece is to be able to move to any edge of the painting frame while constrained at each corner by tensioned chains. Via pulleys, the chain system allows that to happen by creating a pulling force via weights and by shortening the chain.
 
-https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png
+<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400">
 
 1. Pulley - At the top, the pulley has a double bearing to pull the chain to create top tension and bottom tension. At the bottom, it has a single bearing to loop to the top tension. Connects to the pillar via [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden Bracket/README.md).
 2. Bolt - This is the main bolt that connect the gear to the motor box. It's here that the motion from the pulley system translates to motion in the [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)]
