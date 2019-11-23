@@ -1,4 +1,4 @@
-# How to Assemble
+# How to Assemble Wooden Bracket
 
 ![Wooden Bracket CAD](https://user-images.githubusercontent.com/49771001/69452753-4cac7180-0d17-11ea-9cf9-dd54db3ae926.jpg)
 
