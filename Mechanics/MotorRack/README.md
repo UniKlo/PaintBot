@@ -14,7 +14,7 @@ For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5
 | *Assumptions* |
 | 9 Tooth #25 chain <br/> ⇒ Pitch = ¼ “ <br/> ⇒ # of Teeth (N) = 9 <br/> Radius of sprocket = PD2 <br/> 1” = 2.54 cm <br/> 1 kg = 2.2 lbs <br/> 1 N = 1 kg * 9.8 m/s2 <br/> Torque = Force x perpendicular distance  <br/> Perpendicular distance = radius of sprocket <br/> Pitch Diameter (PD) = Pitch(P) / sin(180 / N) |
 | *Calculations* |
-| Torque = Force x distance <br/> Torque = (Weight) x (radius of 9 teeth sprocket on motor) <br/> Torque = Weight x PD / 2 <br/> Torque = Weight x Pitch(P) / 2 * sin(180 / N) <br/> Weight = Torque * 2sin(180/N) /Pitch = 0.34 Nm * 2sin(180 / 9) / 0.25" * 1" / 0.0254 m * 1 / 9.8 m/s2 <br/> <br/> **Max Weight Motor can lift = ~10 kg = ~22 lbs** <br/> **Note: Pulley system is designed as a 1:4 pulley system (Mechanical Advantage = 4) so motor is just pulling ¼ * hanging weight (currently hanging weight is 27 lbs)** |
+| Torque = Force x distance <br/> Torque = (Weight) x (radius of 9 teeth sprocket on motor) <br/> Torque = Weight x PD / 2 <br/> Torque = Weight x Pitch(P) / 2 * sin(180 / N) <br/> Weight = Torque * 2sin(180/N) /Pitch = 0.34 Nm * 2sin(180 / 9) / 0.25" * 1" / 0.0254 m * 1 / 9.8 m/s2 <br/> <br/> **Max Weight Motor can lift = ~10 kg = ~22 lbs** <br/> **Note: Pulley system is designed as a 1:4 pulley system (Mechanical Advantage = 4) so motor is just pulling ¼ * hanging weight (currently hanging weight is 27 lbs) <br/> Refer to Chain System for force diagram of pulley system** |
 
 ## Parts
 | | Part | Description |
