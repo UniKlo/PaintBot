@@ -5,7 +5,7 @@
 ## Design Goals
 
 - Stablize the spray gun and keep spray gun in upright position during operation 
-- Control the movement of the spray gun in Cartesian plane
+- Holds the spray gun during movement in Cartesian plane
 
 ## Force diagram
 ![Centerpiece](https://user-images.githubusercontent.com/49771001/69471097-8a79bc00-0d50-11ea-8070-dc6fa53a6669.jpg)
