@@ -1,8 +1,11 @@
 # How to Assemble Pulley Weights
 
 ## Materials
+
 6x Clay Bricks
+
 Aluminum strips
+
 Bolts n wing nuts
 
 ## Instructions
