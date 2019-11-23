@@ -1,8 +1,7 @@
 # How to assemble Frame
 
-## Instructions
 **Note: Ensure all wooden pieces are painted with waterproof paint**
-### Assembling the Pillars
+## Assembling the Pillars
 <img width="900" alt="Frame Pillar" src="https://user-images.githubusercontent.com/49771001/69483010-454c9d00-0dd7-11ea-8620-616e3793fe2f.png">
 
 1. Construct base of pillar (recommend putting wheels on the bottom for ease of transportation for future usage)
@@ -15,7 +14,7 @@
 
 **Repeat this process to create the second pillar**
 
-### Adding Accessories
+## Adding Accessories
 <img width="900" alt="Frame pillar accessories" src="https://user-images.githubusercontent.com/49771001/69483018-4978ba80-0dd7-11ea-83f2-0094038ba6f3.png">
 1. Check proper assembly of Pillars
 
@@ -25,7 +24,7 @@
 
 **Repeat this process for the second pillar**
 
-### Connecting the Pillars
+## Connecting the Pillars
 <img width="900" alt="Frame horizontal" src="https://user-images.githubusercontent.com/49771001/69483017-47aef700-0dd7-11ea-9265-3ee0e8d8ef1c.png">
 1. Check proper assembly of Pillars and Accessories
 
@@ -33,7 +32,7 @@
 
 3. Cut stud to desired width and use it to connect the top of both pillars together
 
-### Connecting the Motor Rack with Tensioner
+## Connecting the Motor Rack with Tensioner
 <img width="900" alt="Frame Final" src="https://user-images.githubusercontent.com/49771001/69483020-4aa9e780-0dd7-11ea-8f80-2258a68774d1.png">
 1. Check proper assembly
 
