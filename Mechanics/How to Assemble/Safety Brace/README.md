@@ -1,4 +1,4 @@
-# How to Assemble
+# How to Assemble Safety Brace
 
 ![Safety Brace Drawing](https://user-images.githubusercontent.com/49771001/69446645-b58ced00-0d09-11ea-97ba-6f224efd6b31.jpg)
 
