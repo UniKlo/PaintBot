@@ -4,12 +4,12 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400">
 
-1. Pulley - At the top, the pulley has a double bearing to pull the chain to create top tension and bottom tension. At the bottom, it has a single bearing to loop to the top tension. Connects to the pillar via [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden Bracket/README.md).
-2. Bolt - This is the main bolt that connect the gear to the motor box. It's here that the motion from the pulley system translates to motion in the [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)]
-3. Double bearing - Attaches to bottom corner inside [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack)
+1. Pulley - At the top, the pulley has a double bearing to pull the chain to create top tension and bottom tension. At the bottom, it has a single bearing to loop to the top tension. Connects to the pillar via [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden%20Bracket).
+2. Bolt - This is the main bolt that connect the gear to the motor box. It's here that the motion from the pulley system translates to motion in the [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack).
+3. Double bearing - Attaches to bottom corner inside [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack).
 4. Connection to Top of Centerpiece - This portion of the chain will connect to top of centerpiece to create top-tension.
 5. Weight holder - Connects to [pulley weights](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights) to add tension to the system.
-6. Single bearing - Attached to bottom of pillar, encased in [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden Bracket/README.md).
+6. Single bearing - Attached to bottom of pillar, encased in [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden%20Bracket).
 7. Connection to Bottom of Centerpiece - This portion of the chain will connect to top of centerpiece to create bottom-tension.
 
 ## Design considerations
@@ -24,10 +24,8 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 
 
 ## Photos
-    <img src="https://imgur.com/d7jkqVI.jpg" width="500">
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/Image%20from%20iOS.jpg" width="400">
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/Image%20from%20iOS%20(2).jpg" width="400">
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/Image%20from%20iOS%20(3).jpg" width="400">
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/Image%20from%20iOS%20(5).jpg" width="400">
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/Image%20from%20iOS%20(4).jpg" width="400">
-<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/untitled%20(14).png" width="400">
