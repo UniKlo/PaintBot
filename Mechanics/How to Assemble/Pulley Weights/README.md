@@ -4,7 +4,10 @@
 
 6x Clay Bricks <br/>
 Aluminum strips <br/>
-Bolts n wing nuts
+Bolts
+Wing nuts
+Weight Connect
+Acrylic cut chain guide
 
 ## Instructions
 1. Bend Aluminum strips to hold 6 stacked bricks
