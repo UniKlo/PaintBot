@@ -16,7 +16,7 @@ E. | Wooden Bracket <br/> <img src="https://github.com/UniKlo/PaintBot/blob/mast
 F. | Pulley Weight<br/><img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="300px"/> | Pulley Weights<br/> | [More info for Pulley Weights](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights)<br/> Weight for system
 G. | Frame <br/> Need a picuture? | [More info on Pillar](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar)<br/> - Part of the frame of the PaintBot <br/> - Standard 2x4 Wood Framing Stud, please include what paint was used
 H. | Chain system<br/>Need a picture here | [More info on Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
-I. | Paint Compressor <br/> Need a picture here | [More info on Paint Compressor]() <br/> - compressor for the paint
+I. | Paint Compressor <br/> <img width="738" alt="Paint Compressor" src="https://user-images.githubusercontent.com/49771001/69471953-9c139180-0d59-11ea-84b0-b35e9d8fb10f.png"> | [More info on Paint Compressor](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Paint%20Compressor) <br/> - compressor for the paint
 J. | Control Box <br/> What picture to use here? | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" height="300px" width="350px"> <br/> [More info on ]()
 
 
