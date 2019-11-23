@@ -1,6 +1,6 @@
 # Paint Compressor
 
-<img alt="Paint Compressor" src="https://user-images.githubusercontent.com/49771001/69471953-9c139180-0d59-11ea-84b0-b35e9d8fb10f.png">
+<img width="500px" alt="Paint Compressor" src="https://user-images.githubusercontent.com/49771001/69471953-9c139180-0d59-11ea-84b0-b35e9d8fb10f.png">
 
 ## Design considerations:
 * Spraying paint was chosen as the superior option over using brushes and/or rollers as it reduces complexity for paint integration with the robot
