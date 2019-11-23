@@ -9,6 +9,7 @@ For full design view: [OnShape Document](https://cad.onshape.com/documents/c35a5
 * Align the encoder, motor, Sprockets for safe and consistently operations
 * Use the least amount of power to control movement of centerpiece while increasing mechanical advantage of motor 
 
+| |
 | Assumptions |
 | :--- |
 | 9 Tooth #25 chain <br/> ⇒ Pitch = ¼ “ <br/> ⇒ # of Teeth (N) = 9 <br/> Radius of sprocket = PD2 <br/> 1” = 2.54 cm <br/> 1 kg = 2.2 lbs <br/> 1 N = 1 kg * 9.8 m/s2 <br/> Torque = Force x perpendicular distance  <br/> Perpendicular distance = radius of sprocket <br/> Pitch Diameter (PD) = Pitch(P) / sin(180N) |
