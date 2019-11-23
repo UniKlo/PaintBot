@@ -15,6 +15,7 @@
 
 ### Attach Motor Rack to Pillar:
 
+| | |
 | | :---: | :--- |
 1. | <img src="https://i.imgur.com/ReJ5luc.jpg" width="200"> | The front brick metal bracket <br/> 2 bearings on each side of the wooden brick
 
