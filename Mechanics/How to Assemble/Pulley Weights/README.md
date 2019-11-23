@@ -2,8 +2,8 @@
 
 ## Materials
 
-6x Clay Bricks
-Aluminum strips
+6x Clay Bricks <br/>
+Aluminum strips <br/>
 Bolts n wing nuts
 
 ## Instructions
