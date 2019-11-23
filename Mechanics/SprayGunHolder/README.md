@@ -1,5 +1,5 @@
 # Spray Gun Holder
-<img src="https://i.imgur.com/Dsu4iA6.jpg" width="400">
+<img src="https://i.imgur.com/Dsu4iA6.jpg" width="300">
 
 ## Design Goals
 * Stablize spray gun during operation
