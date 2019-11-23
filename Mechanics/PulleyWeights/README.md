@@ -1,4 +1,6 @@
-# Pulley weights 15kg
+# Pulley Weights
+<img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="400px"/>
+
 
 acrylic cut chain guid with 3d printed bearing  shaft
 
