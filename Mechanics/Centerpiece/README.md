@@ -4,8 +4,11 @@
 
 ## Design Goals
 
-- Hold the spray-gun in place as it shoots paint
-- Displaced across 2D plane, attached to chain ends
+- Stablize the spray gun and keep spray gun in upright position during operation 
+- Control the movement of the spray gun in Cartesian plane
+
+## Force diagram
+![Centerpiece](https://user-images.githubusercontent.com/49771001/69471097-8a79bc00-0d50-11ea-8070-dc6fa53a6669.jpg)
 
 [OnShape Document](https://cad.onshape.com/documents/9436b4b003238d1dfd9249e6/w/013a2f8b46f01adf8d57174f/e/b9008f226251bdd07a1122cc)
 
