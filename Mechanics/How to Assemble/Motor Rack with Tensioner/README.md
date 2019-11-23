@@ -23,5 +23,4 @@
 *4.* | <img src="https://i.imgur.com/3U4viAJ.jpg" width="200"> | 2 bearings on pully <br/> Holder block design is in the fusion <br/> Chain guider / bearing shaft is in the fusion
 
 ![](https://raw.githubusercontent.com/UniKlo/PaintBot/master/img_gif/MotorRackAssemblyDrawing.jpg)
-
 ![](https://raw.githubusercontent.com/UniKlo/PaintBot/master/img_gif/MotorRackSupportsDrawing.jpg)
