@@ -9,16 +9,19 @@
   * Encasing was custom-made from aluminum scraps to hold bricks
 
 ## Parts
+| | Part | Description |
+|:-| :--:| :--- |
+A. | **Weight Connect** < br/> <img src="https://imgur.com/0aqqdF9.jpg" width="200"> | printed w 70% infill <br/><br/> [Fusion document](https://a360.co/2piFbqn)
 acrylic cut chain guid with 3d printed bearing  shaft
 
 <img src="https://imgur.com/XQz3el3.jpg" width="200">
 
 weight connect:
 
-printed w 70% infill 
 
-[Fusion](https://a360.co/2piFbqn)
 
-<img src="https://imgur.com/0aqqdF9.jpg" width="200">
+
+
+
 
 Clay bricks (~2.3 kg ea) layered on top of each other encased in a metal frame
