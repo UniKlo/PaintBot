@@ -17,8 +17,9 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 * Develop a chain system that keeps the centerpiece stable during operation
   * Centerpiece held in place from the tension of two equal weights on opposite sides
   * The tension in the chains stables and prevents the Centerpiece from vibrating violently during spraying
-* Develop efficent usage of power by increasing mechanical advantage
-  * Refer to diagram below by By using a 1:4 pulley system, where 1/4 of the force from the weight being pulled down distributes one quarter of tension to each connection in the chain.
+* Increase efficency and safety during operations
+  * Increasing mechanical advantage by using 1:4 Pulley System: Refer to diagram below.
+  * Limit the range of distance the Pulley Weight travels to reduce likelihood of heavy weight colliding with person or critical part of Robot
 
 ![Pulley Systems](https://user-images.githubusercontent.com/49771001/69490092-82e11280-0e37-11ea-8bda-d5d2c92d5691.png)
 
