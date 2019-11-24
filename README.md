@@ -20,9 +20,13 @@ I. | **Paint Compressor** <br/> <img width="400px" alt="Paint Compressor" src="h
 J. | **Control Box** <br/> <img width="500" alt="Control Box" src="https://user-images.githubusercontent.com/49771001/69489268-efedab80-0e29-11ea-86c0-b64131e187a6.png"> | Plywood box designed to protect all microelectronics used to receive input or output signal to motors against physical and liquid hazards <br/> [More info on ](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Electric%20Circuits)
 
 ## Code
-### [Demo 11/12/2019](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) <br/>
-This used the encoders' output to control the displacement of the centerpiece so the paintbot could spray 3ft. x 3ft. area on the wall.
+
+### [Working Code v1](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code)
+* The code was developed in Arduino IDE and uses the readings from the encoders by the Motor, inside the Motor Rack, to control the displacement of the centerpiece so the PaintBot could spray a 3ft. x 3ft. area on the wall.
+* Demonstration conducted on 2019.11.12
+
 ### [Automatic Controls](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
+* Alternative code developed in Arduino IDE using 
  
 ## Parts Referrence
   - ###  Parts Reference
