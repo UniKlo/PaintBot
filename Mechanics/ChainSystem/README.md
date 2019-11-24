@@ -18,9 +18,9 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 - Uses a 1 to 4 pulley system, where 1/4 of the force from the weight being pulled down distributes one quarter of tension to each connection in the chain.
 
 ## Parts
-- ANSI Chain No. 25 used to connect the pulley systems.
-    - 140 lbs is the rated working load of the chain
-    - [Specifications](https://www.renoldjeffrey.com/media/2395574/ansi-standard-roller-chain-renold-jeffrey.pdf)
+| Part | Description |
+| :--: | :-- |
+<img width="400" alt="25 ANSi Chain" src="https://user-images.githubusercontent.com/49771001/69489463-d26e1100-0e2c-11ea-9208-3ee7e888c19d.png"> | - ANSI Chain No. 25 used to connect the pulley systems <br/> - 140 lbs is the rated working load of the chain <br/> - [Specifications](https://www.renoldjeffrey.com/media/2395574/ansi-standard-roller-chain-renold-jeffrey.pdf)
 
 
 ## Photos
