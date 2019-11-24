@@ -3,9 +3,10 @@
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400">
 
 ## Descriptions
+
 1. Two separate bearings to guide the chains
-  a. One chain to the Step 2 (Where the #25 Sprocket is driving the chain)
-  b. Other chain guided straight to Step 3
+  * One chain to the Step 2 (Where the #25 Sprocket is driving the chain)
+  * Other chain guided straight to Step 3
 2. 10 teeth #25 Sprocket connected to the revolving bolt to spin one chain
 3. Two separate bearings to guide the chains 
   * One chain downwards to the Wooden Bracket 
