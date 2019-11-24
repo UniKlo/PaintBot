@@ -18,3 +18,12 @@ D. | **H-Bridge** <br/> <img src="https://imgur.com/xvZtxiw.jpg" width="200"> | 
 E. | **Rotary Encoder** <br/> <img width="290" alt="Rotary Encoder" src="https://user-images.githubusercontent.com/49771001/69473098-55c52f00-0d67-11ea-830c-afe1d32d1d45.png"> | Keeps track of the chain motor rotation, furthermore transfering that information to the Arduino(Code) <br/> <br/> [Optical encoder 360 ppr LPD3806-360BM-24C AB Two Phase Incremental optical shaft 6mm Rotary Encoder 360 Pulses lines](https://sdgteach.en.alibaba.com/product/60729529433-806678094/Optical_encoder_360_ppr_LPD3806_360BM_G5_24C_AB_Two_Phase_Incremental_optical_shaft_6mm_Rotary_Encoder_360_Pulses_lines.html)
 F. | **Motor** <br/> <img width="274" alt="Scooter Motor" src="https://user-images.githubusercontent.com/49771001/69472945-4218c900-0d65-11ea-82c6-2e8c3950b605.png"> | Controls the chain-centerpiece movement <br/> <br/> [24 Volt 100 Watt MY6812 Electric Motor with 9 Tooth #25 Chain Sprocket](https://www.monsterscooterparts.com/rae124vo100w.html)
 G. | **Z Motor** <br/> <img width="400" alt="Z-Axis motor" src="https://user-images.githubusercontent.com/49771001/69470477-b6df0980-0d4b-11ea-9755-ee46bd120702.png"> | Controls the rotation of the Trigger control piece <br/> <br/> [Motor from MakerMadeCNC.com](https://www.makermadecnc.com/product/z-axis-replacement-motor/)
+
+## Code
+
+### [Working Code](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code)
+* Code that was developed in Arduino IDE and uses the readings from the encoders, inside the Motor Rack, to control the displacement of the centerpiece so the PaintBot could spray a 3ft. x 3ft. area on the wall.
+* Demonstration conducted on 2019.11.12
+
+### [Future Code (Work in progress)](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
+* Alternative code developed in Arduino IDE using displacement of chain distance to control the movement of the centerpiece during operation. This method uses the relative starting point of the centerpiece as the origin and traverses by vector notation inputs. 
