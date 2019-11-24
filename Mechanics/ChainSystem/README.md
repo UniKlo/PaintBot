@@ -19,7 +19,9 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
   * The tension in the chains stables and prevents the Centerpiece from vibrating violently during spraying
 * Increase efficency and safety during operations
   * Increasing mechanical advantage by using 1:4 Pulley System: Refer to diagram below.
-  * Limit the range of distance the Pulley Weight travels to reduce likelihood of heavy weight colliding with person or critical part of Robot
+  * Limit the range of distance the Pulley Weight travels while increase operating range of centerpiece 
+    * Limiting the distance the Pulley Weight travels reduces the likelihood it colliding with people underneath
+    * Increasing operating range of centerpiece is practical in achieving more paint coverage
 
 ![Pulley Systems](https://user-images.githubusercontent.com/49771001/69490092-82e11280-0e37-11ea-8bda-d5d2c92d5691.png)
 
