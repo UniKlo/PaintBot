@@ -1,6 +1,6 @@
 # Chain Layout
 
-<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400"> | 
+<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400">
 
 ## Descriptions
 
