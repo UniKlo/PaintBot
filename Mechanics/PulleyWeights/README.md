@@ -2,7 +2,7 @@
 <img src="https://github.com/UniKlo/PaintBot/blob/master/img_gif/pulley%20weights.jpg" height="400px"/>
 
 ## Design Goals
-* Develop Cartesian plane control with the use of tension in the chains
+* Develop control in 2D Cartesian plane with the use of tension in the chains
   * Achieved by using a pulley system with weights to create tension
 * Minimum cost
   * Bricks were readily available (other forms of weights can be used)
