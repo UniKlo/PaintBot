@@ -3,7 +3,7 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 
 | Overview | Demonstration |
 :-------------------------:|:-------------------------:
-![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/paintbot_v5.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif) <br/> Autonomously paints a 3'x 3' square on the wall
+![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/paintbot_v5.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif) <br/> Autonomously paints a 3'x 3' square on the wall <br/> [Youtube link](https://www.youtube.com/watch?v=X723J_k0E64&feature=youtu.be)
 
 ## Mechanics
 | | **Part** | **Description** |
@@ -17,7 +17,7 @@ F. | **Pulley Weight** <br/> <img src="https://github.com/UniKlo/PaintBot/blob/m
 G. | **Frame** <br/> <img src="https://imgur.com/GtiJIYm.jpg" width="400"> | <br/> Structure, created with 2" x 4" wood studs, to provide an exoskeleton for the Paintbot <br/><br/> [Design goals](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Pillar) <br/><br/> [How to assemble](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/How%20to%20Assemble/Frame/README.md)
 H. | **Chain system** <br/>Need a picture here | [More info on Chain System](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/ChainSystem) | - Design and Chain hook-up throughout the robot
 I. | **Paint Compressor** <br/> <img width="400px" alt="Paint Compressor" src="https://user-images.githubusercontent.com/49771001/69471953-9c139180-0d59-11ea-84b0-b35e9d8fb10f.png"> | Magnum Project Painter Plus Electric TrueAirless Sprayer <br/> - Device used to pressurize and spray paint <br/><br/> [Design considerations](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Paint%20Compressor) <br/><br/> [How to Connect/Use (Youtube Video by GracoPaintSprayers)](https://www.youtube.com/watch?v=pey29Z3UQR4)
-J. | **Control Box** <br/> What picture to use here? | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" height="300px" width="350px"> <br/> [More info on ](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Electric%20Circuits/README.md)
+J. | **Control Box** <br/> <img width="400" alt="Control Box" src="https://user-images.githubusercontent.com/49771001/69489268-efedab80-0e29-11ea-86c0-b64131e187a6.png"> | Wiring Schematics <br/> <img src="https://user-images.githubusercontent.com/49771001/69264211-b2fc8d00-0b7b-11ea-83b4-03c42b3dda64.jpg" height="300px" width="350px"> <br/> [More info on ](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Electric%20Circuits/README.md)
 
 
 ## Electronics
