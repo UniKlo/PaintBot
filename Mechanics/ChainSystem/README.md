@@ -4,18 +4,23 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 
 <img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400">
 
-1. Pulley - At the top, the pulley has a double bearing to pull the chain to create top tension and bottom tension. At the bottom, it has a single bearing to loop to the top tension. Connects to the pillar via [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden%20Bracket).
-2. Bolt - This is the main bolt that connect the gear to the motor box. It's here that the motion from the pulley system translates to motion in the [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack).
-3. Double bearing - Attaches to bottom corner inside [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack).
-4. Connection to Top of Centerpiece - This portion of the chain will connect to top of centerpiece to create top-tension.
-5. Weight holder - Connects to [pulley weights](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights) to add tension to the system.
-6. Single bearing - Attached to bottom of pillar, encased in [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden%20Bracket).
-7. Connection to Bottom of Centerpiece - This portion of the chain will connect to top of centerpiece to create bottom-tension.
+1. Double Bearing Pulley that guides the chains through the Motor Rack.
+2. 10 teeth #25 sprocket, connected to bolt, that drives the motion of the chains by using the torque translated from the motor inside the [Motor Rack](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/MotorRack).
+3. Double Bearing that guides the chains to the Wooden Bracket and to the Centerpiece
+4. Connection to Top Corner of Centerpiece
+5. Weight holder connects to [Pulley Weight](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/PulleyWeights) to add tension to the system.
+6. Single bearing attached to bottom of the pillar, encased in [Wooden Bracket](https://github.com/UniKlo/PaintBot/blob/master/Mechanics/Wooden%20Bracket).
+7. Connection to Bottom Corner of Centerpiece
 
 ## Design considerations
 
-- Centerpiece held in place from the tension of two equal weights on opposite sides
-- Uses a 1 to 4 pulley system, where 1/4 of the force from the weight being pulled down distributes one quarter of tension to each connection in the chain.
+* Develop a chain system that keeps the centerpiece stable during operation
+  * Centerpiece held in place from the tension of two equal weights on opposite sides
+  * The tension in the chains stables and prevents the Centerpiece from vibrating violently during spraying
+* Develop efficent usage of power by increasing mechanical advantage
+  * Refer to diagram below by By using a 1:4 pulley system, where 1/4 of the force from the weight being pulled down distributes one quarter of tension to each connection in the chain.
+
+![Pulley Systems](https://user-images.githubusercontent.com/49771001/69490092-82e11280-0e37-11ea-8bda-d5d2c92d5691.png)
 
 ## Parts
 | Part | Description |
