@@ -1,8 +1,10 @@
 # Chain Layout
 
-| Image | Description |
-| :---: | :---|
-<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400"> | 1. Two separate bearings to guide the chains <br/>
+<img src="https://github.com/UniKlo/PaintBot/blob/master/Mechanics/ChainSystem/chain-system-02-01.png" width="400"> | 
+
+## Descriptions
+
+1. Two separate bearings to guide the chains <br/>
   a. One chain to the Step 2 (Where the #25 Sprocket is driving the chain) <br/>
   b. Other chain guided straight to Step 3
 2. 10 teeth #25 Sprocket connected to the revolving bolt to spin one chain
@@ -17,7 +19,4 @@
   d. And finally back up to Step 1
 6. Chain goes through the top of the Wooden Bracket, around the bearing, and out through the center of the heart.
 7. Chain continues onward to connect to the centerpiece
-
-## Descriptions
-
 
