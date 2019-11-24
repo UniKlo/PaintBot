@@ -19,8 +19,12 @@ H. | **Chain system** <br/> <img width="400px" alt="Chain System" src="https://u
 I. | **Paint Compressor** <br/> <img width="400px" alt="Paint Compressor" src="https://user-images.githubusercontent.com/49771001/69471953-9c139180-0d59-11ea-84b0-b35e9d8fb10f.png"> | Magnum Project Painter Plus Electric TrueAirless Sprayer <br/> - Device used to pressurize and spray paint <br/><br/> [Design considerations](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Paint%20Compressor) <br/><br/> [How to Connect/Use (Youtube Video by GracoPaintSprayers)](https://www.youtube.com/watch?v=pey29Z3UQR4)
 J. | **Control Box** <br/> <img width="500" alt="Control Box" src="https://user-images.githubusercontent.com/49771001/69489268-efedab80-0e29-11ea-86c0-b64131e187a6.png"> | Plywood box designed to protect all microelectronics used to receive input or output signal to motors against physical and liquid hazards <br/> [More info on ](https://github.com/UniKlo/PaintBot/tree/master/Mechanics/Electric%20Circuits)
 
-
-## Electronics
+## Code
+### [Demo 11/12/2019](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) <br/>
+This used the encoders' output to control the displacement of the centerpiece so the paintbot could spray 3ft. x 3ft. area on the wall.
+### [Automatic Controls](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
+ 
+ ## Parts Referrence
   - ###  Parts Reference
     * [Spray Gun](https://www.amazon.com/Graco-257025-Project-Painter-Sprayer/dp/B004Z2090U/ref=asc_df_B004Z2090U/?tag=hyprod-20&linkCode=df0&hvadid=198077767340&hvpos=1o2&hvnetw=g&hvrand=15997159825197345473&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032020&hvtargid=pla-373698499647&psc=1)
     * [Arduino Mega 2560](https://store.arduino.cc/usa/mega-2560-r3)
@@ -29,15 +33,5 @@ J. | **Control Box** <br/> <img width="500" alt="Control Box" src="https://user-
     * [XY Motors](https://electricscooterparts.com/motors-my6812.html)
     * [Z-Axis Motor](https://www.makermadecnc.com/product/z-axis-replacement-motor/)
 
-## Code
-### [Demo 11/12/2019](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code) <br/>
-This used the encoders' output to control the displacement of the centerpiece so the paintbot could spray 3ft. x 3ft. area on the wall.
-
-### [Automatic Controls](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
-
-## Use
- * For an even coat, each spray layer should have 50% overlay
- * The spray-gun should 1ft. away from the wall
- 
 ## Previous Iterations
  * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
