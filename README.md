@@ -21,12 +21,13 @@ J. | **Control Box** <br/> <img width="500" alt="Control Box" src="https://user-
 
 ## Code
 
-### [Working Code v1](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code)
-* The code was developed in Arduino IDE and uses the readings from the encoders by the Motor, inside the Motor Rack, to control the displacement of the centerpiece so the PaintBot could spray a 3ft. x 3ft. area on the wall.
+### [Working Code](https://github.com/UniKlo/PaintBot/tree/master/DEMO_code)
+* Code that was developed in Arduino IDE and uses the readings from the encoders, inside the Motor Rack, to control the displacement of the centerpiece so the PaintBot could spray a 3ft. x 3ft. area on the wall.
 * Demonstration conducted on 2019.11.12
 
-### [Automatic Controls](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
-* Alternative code developed in Arduino IDE using 
+### [Future Code in process](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
+* Alternative code developed in Arduino IDE using displacement of chain distance to control the movement of the centerpiece during operation. This method uses the relative starting point of the centerpiece as the origin and traverses by vector notation inputs. 
+* Still a work in progress
  
 ## Parts Referrence
   - ###  Parts Reference
