@@ -20,7 +20,7 @@ The goal of the centerpiece is to be able to move to any edge of the painting fr
 * Increase efficency and safety during operations
   * Increasing mechanical advantage by using 1:4 Pulley System: Refer to diagram below.
   * Limit the range of distance the Pulley Weight travels while increase operating range of centerpiece 
-    * Limiting the distance the Pulley Weight travels reduces the likelihood it colliding with people underneath
+    * Limiting the distance the Pulley Weight travels reduces the likelihood of it colliding with people underneath
     * Increasing operating range of centerpiece is practical in achieving more paint coverage
 
 ![Pulley Systems](https://user-images.githubusercontent.com/49771001/69490092-82e11280-0e37-11ea-8bda-d5d2c92d5691.png)
