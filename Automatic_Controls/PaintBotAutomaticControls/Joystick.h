@@ -11,6 +11,8 @@ class Joystick {
     int _yPos;
     int _neutral;
     int _deadZone;
+    int getXPos();
+    int getYPos();
     void updateJoystick(void);
     bool joystickIsActive(void);
     void joystickMove(int, int);
