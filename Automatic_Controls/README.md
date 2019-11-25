@@ -66,18 +66,14 @@ voltage is applied to each motor, the motors will spin at the same speed. This i
 the case. Due to resistance of the physical structure the motor speeds are inconsistent.<br>
 The PID should correct for this error by monitoring the rates at which the motors spin.<br>
 If the ratio of the rates do not match the ratio of the voltages given, then the voltages<br>
-should be adjusted by the PID accordingly.<br>
+should be adjusted by the PID accordingly. A PID visualizer in this folder is available to help find
+ideal values for control loop.<br>
 
 ### Addition of a trigger motor class
 The code in this repository is solely focused on the movement of the center piece. The<br>
 trigger motor class should handle the rotation of the z-axis motor that pushes the paint<br>
 gun trigger. All movement of the z-axis motor should use the motors built in encoder.<br>
 
-### G-Code
-I know integrating G-Code is possible, however I have little to add on this topic. I ran<br>
-out of time before I was able to do any research.<br>
-
 ## Additional notes
 For further documentation and class functionality, refer to the .cpp files. All .cpp files<br>
 have been documented in the format of doc-strings.<br>
-For any 42 students that have questions, my intra is csinglet.
