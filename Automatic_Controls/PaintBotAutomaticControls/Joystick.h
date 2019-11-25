@@ -14,6 +14,7 @@ class Joystick {
     void updateJoystick(void);
     bool joystickIsActive(void);
     void joystickMove(int, int);
+    void setPins(int, int);
+    void setSensitivity(int, int, int);
 }
-
 #endif
