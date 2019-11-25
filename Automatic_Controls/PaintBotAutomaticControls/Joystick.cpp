@@ -42,6 +42,20 @@ Joystick::Joystick(int xPin, int yPin, int neutral, int deadZone, int power) :
 }
 
 /**
+* Sets pins to read x,y values from
+*/
+void Joystick::setPins(int xPin, int yPin) {
+  _xPin = xPin;
+  _yPin = yPin;
+}
+
+void Joystick::setSensitivity(int neutral, int deadZone, int power) {
+  _neutral = neutral;
+  _deadZone = deadZone;
+  _power = power;
+}
+
+/**
 * Reads x,y values from joystick pins
 */
 void Joystick::updateJoystick() {
