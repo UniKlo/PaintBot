@@ -4,11 +4,13 @@
 # define JOYSTICK_H
 
 class Joystick {
+  private:
+    int _xPin, _yPin;
   public:
-    int readX;
-    int readY;
-    int neutral;
-    int jsDeadZone;
+    int _readX;
+    int _readY;
+    int _neutral;
+    int _deadZone;
     void updateJoystick(void);
     bool joystickIsActive(void);
     void joystickMove(int, int);
