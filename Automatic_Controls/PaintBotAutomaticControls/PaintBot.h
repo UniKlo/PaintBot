@@ -1,5 +1,6 @@
 #include <arduino.h>
 #include "GearBox.h"
+#include "Joystick.h"
 
 #ifndef PAINTBOT_H
 # define PAINTBOT_H
@@ -11,6 +12,7 @@ class PaintBot
 		GearBox* _leftGearBox;
 		Vec2* _centerpiecePosition;
 		float _height, _width, _chainLengthRight, _chainLengthLeft;
+		Joystick _joystick;
 	public:
 		PaintBot(void);
 		PaintBot(float, float);
@@ -34,6 +36,7 @@ class PaintBot
 		void moveByInDirection(float, float);
 		void moveTo(float, float);
 		void moveTo(const Vec2&);
+		void joystickMove(void);
 };
 
 #endif
