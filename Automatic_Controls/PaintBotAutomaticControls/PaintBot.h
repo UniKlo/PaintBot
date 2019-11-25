@@ -26,6 +26,7 @@ class PaintBot
 		void setupLeftGearBoxEncoder(int, int);
 		void setupRightGearBox(int, int, int, int);
 		void setupLeftGearBox(int, int, int, int);
+		void setupJoystick(int, int);
 
 		long rightEncoderPosition(void) const;
 		long leftEncoderPosition(void) const;
