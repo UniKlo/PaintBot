@@ -173,3 +173,8 @@ void GearBox::swapMotorRotation(void)
 {
 	_motor->swapRotation();
 }
+
+void GearBox::directWrite(int speed)
+{
+	_motor->write(speed);
+}
