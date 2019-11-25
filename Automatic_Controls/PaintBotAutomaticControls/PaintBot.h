@@ -37,6 +37,7 @@ class PaintBot
 		void moveByInDirection(float, float);
 		void moveTo(float, float);
 		void moveTo(const Vec2&);
+		void directionalMove(int, int);
 		void joystickMove(void);
 };
 
