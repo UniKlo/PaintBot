@@ -42,6 +42,21 @@ Joystick::Joystick(int xPin, int yPin, int neutral, int deadZone, int power) :
 }
 
 /**
+* Getter for x position
+*/
+int getXPos() {
+  return (_xPos);
+}
+
+/**
+* Getter for y position
+*/
+int getYPos() {
+  return (_yPos);
+}
+
+
+/**
 * Sets pins to read x,y values from
 */
 void Joystick::setPins(int xPin, int yPin) {
@@ -73,24 +88,4 @@ bool Joystick::joystickIsActive() {
     _yPos <= _neutral - _deadZone ||
     _yPos >= _neutral + _deadZone
    );
-}
-
-/**
-* Moves motors as long as joystick is active
-*/
-bool Joystick::joystick() {
-    updateJoystick();
-    while (joystickIsActive()) {        
-      if (_xPos < 300) {  
-        moveTo(Right, _power);
-      } else if (_xPos > 700) {
-        moveTo(Left, _power);
-      } else if (readY < 300) {
-        moveTo(Up, _power);
-      } else if (readY > 700) {
-        moveTo(Down, _power);
-      }
-      updateJoystick();
-    }
-    stopMotors();
 }
