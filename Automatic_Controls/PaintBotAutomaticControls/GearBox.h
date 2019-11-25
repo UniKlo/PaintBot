@@ -26,6 +26,7 @@ class GearBox
 		void rotateMotorCounterClockwise(int);
 		void rotateMotorCounterClockwise(float);
 		void stopMotor(void);
+		void directWrite(int);
 		void swapMotorRotation(void);
 };
 
