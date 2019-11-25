@@ -19,6 +19,7 @@ class Motor
 		void rotateCounterClockwise(int);
 		void stop(void);
 		void swapRotation(void);
+		void write(float);
 };
 
 #endif
