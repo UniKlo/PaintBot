@@ -137,3 +137,25 @@ void Motor::swapRotation(void)
 	_rpwmPin = _lpwmPin;
 	_lpwmPin = tmp;
 }
+
+/**
+* Encodes counter clockwise and clockwise motion into a single value and directly writes to motor
+* @param speed - signed value indicating rotational direction and power of motor (- is ccw, + is cw)
+* @author David Gaitsgory - dgaitsgo@student.42.fr
+*/
+
+void Motor::write(float speed) {
+  speed = constrain(speed, -255, 254);
+  bool forward = speed > 0;
+  speed = fabs(speed);
+  if (speed == 0) {
+    analogWrite(_lpwmPin, 0);
+    analogWrite(_rpwmPin, 0);
+  } else if (forward) {    
+    analogWrite(_lpwmPin, speed);
+    analogWrite(_rpwmPin, 0);
+  } else {
+    analogWrite(_lpwmPin, 0);
+    analogWrite(_rpwmPin, speed);
+  }
+}
