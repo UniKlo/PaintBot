@@ -27,15 +27,6 @@ J. | **Chain system** <br/> <img width="400px" alt="Chain System" src="https://u
 
 ### [Future Code (Work in progress)](https://github.com/UniKlo/PaintBot/tree/master/Automatic_Controls)
 * Alternative code developed in Arduino IDE using displacement of chain distance to control the movement of the centerpiece during operation. This method uses the relative starting point of the centerpiece as the origin and traverses by vector notation inputs. 
- 
-## Parts Referrence
-  - ###  Parts Reference
-    * [Spray Gun](https://www.amazon.com/Graco-257025-Project-Painter-Sprayer/dp/B004Z2090U/ref=asc_df_B004Z2090U/?tag=hyprod-20&linkCode=df0&hvadid=198077767340&hvpos=1o2&hvnetw=g&hvrand=15997159825197345473&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032020&hvtargid=pla-373698499647&psc=1)
-    * [Arduino Mega 2560](https://store.arduino.cc/usa/mega-2560-r3)
-    * [H-Bridge](https://www.amazon.com/HiLetgo-BTS7960-Driver-Arduino-Current/dp/B00WSN98DC)
-    * [12v Power Supply](https://www.amazon.com/MENZO-Universal-Regulated-Switching-Computer/dp/B06VWV5YCH)
-    * [XY Motors](https://electricscooterparts.com/motors-my6812.html)
-    * [Z-Axis Motor](https://www.makermadecnc.com/product/z-axis-replacement-motor/)
 
 ## Previous Iterations
  * [V-Plotter](https://github.com/UniKlo/PaintBot/tree/master/Iterations/V-Plotter)
