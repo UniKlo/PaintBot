@@ -371,3 +371,55 @@ void PaintBot::moveTo(const Vec2& point)
 		*_centerpiecePosition = point;
 	}
 }
+
+/**
+* stop motors
+* @author David Gaitsgory - dgaitsgo@student.42.fr
+*/
+void stopMotors() {
+	_leftGearBox->stopMotor();
+	_rightGearBox->stopMotor();
+}
+
+/**
+* Move centerpiece in a certain direction
+* @param dir : The direction to move ceterpiece in
+* @param speed : The power to move the centerpiece
+* @author David Gaitsgory - dgaitsgo@student.42.fr
+*/
+void PaintBot::directionalMove(const int dir, const int speed) {
+
+	int rSign = (dir == Left || dir == Down) ? -1 : (dir == UpLeft || dir == DownRight) ? 0 : 1;
+	int lSign = (dir == Left || dir == Up) ? -1 : (dir == UpRight || dir == DownLeft) ? 0 : 1;
+	int rSpeed = speed * rSign;
+	int lSpeed = speed * lSign;
+
+	_leftGearBox->directWrite(lSpeed);
+	_rightGearBox->directWrite(rSpeed);
+}
+
+/**
+* Move centerpiece with joystick
+* @author David Gaitsgory - dgaitsgo@student.42.fr
+*/
+void PaintBot::joystickMove() {
+
+	int power = _joystick->getPower();
+	
+	_joystick->updateJoystick();
+	while (_joystick->joystickIsActive()) {
+		int xPos = _joystick->getXPos();
+		int yPos = _joystick->getYPos();
+		if (xPos < 300) {  
+        		directionalMove(Right, power);
+      		} else if (xPos > 700) {
+        		directionalMove(Left, power);
+		} else if (yPos < 300) {
+			directionalMove(Up, power);
+		} else if (yPos > 700) {
+			directionalMove(Down, power);
+		}
+		_joystick->updateJoystick();
+	}
+	stopMotors();
+}
