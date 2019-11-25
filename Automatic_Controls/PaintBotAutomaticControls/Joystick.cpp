@@ -55,6 +55,13 @@ int getYPos() {
   return (_yPos);
 }
 
+/**
+* Getter for power
+*/
+int getPower() {
+  return (_power);
+}
+
 
 /**
 * Sets pins to read x,y values from
