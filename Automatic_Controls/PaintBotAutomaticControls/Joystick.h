@@ -13,6 +13,7 @@ class Joystick {
     int _deadZone;
     int getXPos();
     int getYPos();
+    int getPower();
     void updateJoystick(void);
     bool joystickIsActive(void);
     void joystickMove(int, int);
