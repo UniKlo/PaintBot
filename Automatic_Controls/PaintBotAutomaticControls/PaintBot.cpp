@@ -23,6 +23,7 @@ PaintBot::PaintBot(void)
 	_chainLengthLeft = 0.0;
 	_rightGearBox = NULL;
 	_leftGearBox = NULL;
+	_joystick = NULL;
 }
 
 /**
@@ -41,6 +42,7 @@ PaintBot::PaintBot(float width, float height)
 	_chainLengthLeft = distanceBetweenVectors(Vec2(width / 2.0 - 5, height / 2.0 + 5), Vec2(0.0, height));
 	_rightGearBox = NULL;
 	_leftGearBox = NULL;
+	_joystick = NULL;
 }
 
 /**
@@ -198,6 +200,15 @@ void PaintBot::setupLeftGearBox(int rpwm, int lpwm, int pinA, int pinB)
 	{
 		_leftGearBox->setupMotor(rpwm, lpwm);
 		_leftGearBox->setupEncoder(pinA, pinB);
+	}
+}
+
+void setupJoystick(int pinX, int pinY) {
+	
+	if (_joystick == NULL) {
+		_joystick = new Joystick(pinX, pinY);
+	} else {
+		_joystick->setPins(pinX, pinY);
 	}
 }
 
