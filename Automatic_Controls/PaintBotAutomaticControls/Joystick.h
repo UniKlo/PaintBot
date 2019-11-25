@@ -7,8 +7,8 @@ class Joystick {
   private:
     int _xPin, _yPin;
   public:
-    int _readX;
-    int _readY;
+    int _xPos;
+    int _yPos;
     int _neutral;
     int _deadZone;
     void updateJoystick(void);
