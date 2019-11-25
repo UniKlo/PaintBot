@@ -23,6 +23,13 @@ Joystick::Joystick(int xPin, int yPin) :
 
 /**
 * Overloaded Joystick constructor to specify sensitivity or if using different joystick model
+* @param xPin : The pin # the joystick's x position can be read from 
+* @param yPin : The pin # the joystick's y position can be read from
+* @param neutral : The value of the pins when the joystick is resting
+* @param xPos : Joystick's current x position, set by default to neutral
+* @param yPos : Joystick's current y position, set by default to neutral
+* @param deadZone : To reduce sensitivity, a boundary is put around the neutral position before the joystick is considered "active"
+* @param power: The power sent to direct writes to motors
 */
 Joystick::Joystick(int xPin, int yPin, int neutral, int deadZone, int power) :
   _xPin(xPin),
