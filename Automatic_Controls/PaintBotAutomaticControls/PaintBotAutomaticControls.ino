@@ -16,6 +16,14 @@
 #define RIGHT 0
 #define LEFT PI
 
+enum Directions {
+  Left,
+  Right,
+  Up,
+  Down
+};
+
+
 // Right motor H-bridge rpwm and rpwm pins
 int rightMotorRpwmPin = 10;
 int rightMotorLpwmPin = 11;
@@ -28,6 +36,9 @@ int leftMotorLpwmPin = 11;
 // Left encoder logic pins A and B
 int leftEncoderPinA = 20;
 int leftEncoderPinB = 21;
+// Joystick pins
+int jsX = A1;
+int jsY = A0;
 int once;
 PaintBot pb = PaintBot(CANVAS_WIDTH, CANVAS_HEIGHT);
 
