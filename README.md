@@ -3,7 +3,7 @@ Paintbot is a machine that paints upright surfaces. It's a prototype that can pa
 
 | Overview | Demonstration |
 :-------------------------:|:-------------------------:
-![paintbot_v11](https://user-images.githubusercontent.com/49771001/69490356-7f4f8a80-0e3b-11ea-9da7-ee6e76b54e3f.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif) <br/> Autonomously paints a 3'x 3' square on the wall <br/> [Youtube link](https://www.youtube.com/watch?v=X723J_k0E64&feature=youtu.be)
+![paintbot_v12](https://user-images.githubusercontent.com/49771001/69512831-7376cd80-0efa-11ea-8b19-5fbcaaa24185.png) | ![](https://github.com/UniKlo/PaintBot/blob/master/img_gif/demo.gif) <br/> Autonomously paints a 3'x 3' square on the wall <br/> [Youtube link](https://www.youtube.com/watch?v=X723J_k0E64&feature=youtu.be)
 
 ## Parts
 | | **Part** | **Description** |
